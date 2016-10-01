@@ -1,0 +1,2001 @@
+;Numer.......................................wpisu;Imiê.i.nazwisko.lub.nazwa.inwestora;Data.wpisu;Adres;Rodzaj;opis;typ;Data.wniosku;Nr...............wniosku;Nr...............decyzji;Data.decyzji;Rok.wniosku;Miesi¹c.wniosku;data;Czas.rozpatrzenia;lon;lat
+4001;853;;2010-04-15;Zieliñskiego Tadeusza 59 A-C;bud.o trzech i wiêcej mieszkaniach;rozbudowa podcieni  w budynku na cele mieszkalne;rozbudowa;2010-02-08;paŸ-92;paŸ-61;2010-04-15;2010;2;2010-02-01;49;17,018919;51,0981759
+4002;854;;2010-04-15;Marszowicka 97;bud.mieszkalne jednorodzinne;umorzenie post.;nowe;2010-02-18;paŸ-12;paŸ-97;2010-04-15;2010;2;2010-02-01;41;16,87697;51,160033
+4003;855;;2010-04-15;Dworcowa 2;bud.o trzech i wiêcej mieszkaniach;remont klatki schodowej,dachu i elewacji i czêœci wspóln;przebudowa;2010-01-26;paŸ-20;726/10;2010-04-15;2010;1;2010-01-01;58;17,040269;51,1029933
+4004;856;;2010-04-15;Bezpieczna 69-75;bud.o trzech i wiêcej mieszkaniach;remont balkonów w budynku wielorodzinnym;przebudowa;2010-03-18;paŸ-92;727/10;2010-04-15;2010;3;2010-03-01;21;17,020635;51,139398
+4005;857;;2010-04-15;Motylkowa;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodz.;nowe;2010-02-18;paŸ-43;728/10;2010-04-15;2010;2;2010-02-01;41;17,0242835;51,0615798
+4006;858;;2010-04-15;Jaracza Stefana 68;bud.o trzech i wiêcej mieszkaniach;przebudowa czêœci korytarza klatki schod.w bud.wielorodz.;przebudowa;2010-02-17;paŸ-96;729/10;2010-04-15;2010;2;2010-02-01;42;17,0580929;51,1261023
+4007;859;;2010-04-15;Miñska;linie elektroener.i telekom.rozdzielcz.;odcinka linii kablowej œr/n 20kv;przebudowa;2010-03-15;paŸ-14;730/10;2010-04-15;2010;3;2010-03-01;24;16,9456402;51,1031081
+4008;860;;2010-04-15;Kapitulna 4;bud.kultu religijnego i czynnoœci religijnych;remont elewacji  i dobudowa pochylni;remont;2010-02-26;paŸ-07;731/10;2010-04-15;2010;2;2010-02-01;35;17,0461541;51,1150204
+4009;861;;2010-04-15;Monte Cassino 63 ;bud.o trzech i wiêcej mieszkaniach;rozbudowa wewnêtrznej instalacji gazowej wraz  z budow¹ inst co;inst.wewnêtrzna;2010-03-03;paŸ-12;732/10;2010-04-15;2010;3;2010-03-01;32;17,106405;51,1075639
+4010;862;;2010-04-15;Barlickiego Norberta 37;bud.o trzech i wiêcej mieszkaniach;przebudowa wewn.inst gazowej w lokalu miesz;inst.wewnêtrzna;2010-03-17;paŸ-61;733/10;2010-04-15;2010;3;2010-03-01;22;17,0513773;51,1237543
+4011;863;;2010-04-16;Marszowicka 103;bud.mieszkalne jednorodzinne;umorzenie post.;nowe;2010-02-22;paŸ-31;paŸ-98;2010-04-16;2010;2;2010-02-01;40;16,876686;51,1592863
+4012;864;;2010-04-16;Marszowicka 111;bud.o dwóch mieszkaniach;umarzam postêpowanie administracyjne;nowe;2010-02-24;paŸ-85;100/10;2010-04-16;2010;2;2010-02-01;38;16,876186;51,1582549
+4013;865;;2010-04-16;Marszowicka 101;bud.mieszkalne jednorodzinne;umarzam postêpowanie administracyjne-budynekjednorodzinny;nowe;2010-02-26;paŸ-99;101/10;2010-04-16;2010;2;2010-02-01;36;16,87678;51,159522
+4014;866;;2010-04-16;Strzegomska;bud.kultury fizycznej;umorzenie post.;nowe;2010-03-19;paŸ-04;103/10;2010-04-16;2010;3;2010-03-01;21;16,9779648;51,1141757
+4015;867;;2010-04-16;Jubilerska;bud.mieszkalne jednorodzinne;umarzam jako bezprzedmiotowe-budynekjednorodzinny;nowe;2010-02-09;paŸ-06;104/10;2010-04-16;2010;2;2010-02-01;49;17,0174371;51,1749769
+4016;868;;2010-04-16;Kraiñskiego Wincentego Ks. 14;bud.handlowo-uslugowe;umarzam jako bezprzedmiotowe-przebudowa baszty;remont;2010-02-19;paŸ-67;105/10;2010-04-16;2010;2;2010-02-01;41;17,040689;51,112025
+4017;869;;2010-04-16;Bia³ych Go¿dzików 14;bud.mieszkalne jednorodzinne;umarzam jako bezprzedmiotowe;przebudowa;2010-02-12;paŸ-44;106/10;2010-04-16;2010;2;2010-02-01;46;17,103649;51,1581539
+4018;870;;2010-04-16;Orzeszkowej Elizy 48;bud.o trzech i wiêcej mieszkaniach;przebudowa poddasza w celu przy³.do bud.lokalu mieszkal.;przebudowa;2010-03-12;paŸ-97;734/10;2010-04-16;2010;3;2010-03-01;26;17,0525125;51,1240365
+4019;871;;2010-04-16;Moœcickiego Ignacego 43;bud.o trzech i wiêcej mieszkaniach;monta¿ wew.instal.gaz.w lokalu mieszkal.;inst.wewnêtrzna;2010-04-01;10903/10;735/10;2010-04-16;2010;4;2010-04-01;12;17,0849702;51,0623972
+4020;872;;2010-04-16;Zatorska;ruroci¹gi gazu sieci rozdzielczej;sieci gazowej œredniego ciœnienia w ulicy wraz z przy³¹czami dla budyn;nowe;2010-03-19;paŸ-94;736/10;2010-04-16;2010;3;2010-03-01;21;17,1347609;51,160213
+4021;873;;2010-04-16;D³ugopolska 29;bud.mieszkalne jednorodzinne;dwóch budynków mieszkalnych jednorodzinnych ;nowe;2010-02-09;paŸ-38;737/10;2010-04-16;2010;2;2010-02-01;49;17,0381737;51,0743583
+4022;874;;2010-04-16;Prosta 44;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkal.;przebudowa;2010-03-15;paŸ-91;738/10;2010-04-16;2010;3;2010-03-01;25;17,0205502;51,1025995
+4023;875;;2010-04-16;Czapliñskiego W³adys³awa;ruroci¹gi gazu sieci rozdzielczej;gazoci¹g;nowe;2010-02-23;paŸ-57;739/10;2010-04-16;2010;2;2010-02-01;39;16,8718323;51,1626273
+4024;876;;2010-04-16;Prusa Boles³awa 71;bud.o trzech i wiêcej mieszkaniach;przebudowa czêœci lokalu mieszkalnego na gabinet dentystyczny ;przebudowa;2010-03-31;10771/10;740/10;2010-04-16;2010;3;2010-03-01;13;17,0587473;51,120531
+4025;877;;2010-04-16;Snopkowa 1;linie elektroener.i telekom.rozdzielcz.;linia kablowa nn dobudynku wielorodzinnego;nowe;2010-03-15;paŸ-21;741/10;2010-04-16;2010;3;2010-03-01;25;17,0310353;51,063787
+4026;878;;2010-04-16;Budziszyñska 16;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego;przebudowa;2010-04-08;11428/10;742/10;2010-04-16;2010;4;2010-04-01;7;16,96282;51,1136399
+4027;879;;2010-04-16;Rakowa 16A;bud.handlowo-uslugowe;rozbudowa warsztatu samochodowego i czêœci socjalnej ;rozbudowa;2010-02-02;paŸ-43;743/10;2010-04-16;2010;2;2010-02-01;54;17,0913699;51,1404548
+4028;880;;2010-04-16;Wiêzienna 21;bud.o trzech i wiêcej mieszkaniach;przebudowa pasa¿u pieszego;przebudowa;2010-02-26;paŸ-81;744/10;2010-04-16;2010;2;2010-02-01;36;17,032208;51,1124409
+4029;881;;2010-04-16;Zegarmistrzowska;bud.mieszkalne jednorodzinne;budowa dwóch bud.mieszkal.jednorodzinnych;nowe;2010-03-19;paŸ-25;745/10;2010-04-16;2010;3;2010-03-01;21;17,0203266;51,1709778
+4030;882;;2010-04-16;Powstañców Œl¹skich 194;bud.o trzech i wiêcej mieszkaniach;zabudowa czêœci podestu klatki schodowej w budynku ;przebudowa;2010-02-02;paŸ-20;746/10;2010-04-16;2010;2;2010-02-01;54;17,009325;51,0800689
+4031;883;;2010-04-16;Rudzka 9-11;bud.przemys³owe;przebudowa pomieszczeñ w budynku zak³adu szwalniczego;przebudowa;2010-03-08;paŸ-05;747/10;2010-04-16;2010;3;2010-03-01;30;16,9757919;51,111484
+4032;884;;2010-04-16;Kniaziewicza Karola Gen. 15;bud.o trzech i wiêcej mieszkaniach;przebudowa strychu na mieszkanie;przebudowa;2010-04-09;11734/10;748/10;2010-04-16;2010;4;2010-04-01;6;17,0418377;51,1017797
+4033;885;;2010-04-16;Olbrachtowska;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej nn;przebudowa;2010-02-17;paŸ-38;749/10;2010-04-16;2010;2;2010-02-01;43;16,9054478;51,1540627
+4034;886;;2010-04-16;Olbrachtowska;ulice i drogi pozosta³e;oœwietlenia ci¹gów pieszo-drogowych w zespole zabudowy ;nowe;2010-02-17;paŸ-33;750/10;2010-04-16;2010;2;2010-02-01;43;16,9054478;51,1540627
+4035;887;;2010-04-19;Markowskiego Zygmunta 4;bud.mieszkalne jednorodzinne;wewnêtrzna instalacja gazowa w budynku mieszkalnym jednorodzinnym;inst.wewnêtrzna;2010-02-24;paŸ-87;paŸ-62;2010-04-19;2010;2;2010-02-01;39;17,0200292;51,1764096
+4036;888;;2010-04-19;Poœwiêcka 19;bud.mieszkalne jednorodzinne;umarzam postêpowanie;nowe;2010-03-03;paŸ-53;108/10;2010-04-19;2010;3;2010-03-01;34;17,0368919;51,1573549
+4037;889;;2010-04-19;Bursztynowa;ulice i drogi pozosta³e;umarzam postêpowanie;przebudowa;2010-03-02;paŸ-25;109/10;2010-04-19;2010;3;2010-03-01;35;17,0215958;51,0477456
+4038;890;;2010-04-19;Czapliñskiego W³adys³awa 28;bud.mieszkalne jednorodzinne;budowa jednorodzinnego budynku mieszkal.;nowe;2010-03-19;paŸ-72;751/10;2010-04-19;2010;3;2010-03-01;22;16,8720483;51,1627964
+4039;891;;2010-04-19;Wittiga Edwarda ;bud.zbiorowego zamieszkania;budowa przy³.telekom.;przy³¹cze;2010-02-26;paŸ-08;752/10;2010-04-19;2010;2;2010-02-01;37;17,084184;51,1025504
+4040;892;;2010-04-19;Dzielnicowa 10;bud.o trzech i wiêcej mieszkaniach;budynek mieszkalny wielorodzinny z parkingiem ;nowe;2008-07-18;28183/08;753/10;2010-04-19;2008;7;2008-07-01;457;16,9586801;51,0976634
+4041;893;;2010-04-19;Gorlicka 64;bud.handlowo-uslugowe;przebudowa lokalu us³ugowego na gabinet stomatologiczny;zmiana spos.u¿ytk.;2010-02-18;paŸ-23;754/10;2010-04-19;2010;2;2010-02-01;43;17,123179;51,1442659
+4042;894;;2010-04-19;Staszica Stanis³awa Plac 8;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku;przebudowa;2010-03-22;paŸ-68;755/10;2010-04-19;2010;3;2010-03-01;21;17,02923;51,1234379
+4043;895;;2010-04-19;Wietrzna;linie elektroener.i telekom.rozdzielcz.;tymczasowej stacji transformatorowej wraz z powi¹zaniami ;nowe;2010-03-02;paŸ-08;756/10;2010-04-19;2010;3;2010-03-01;35;16,9940682;51,0734919
+4044;896;;2010-04-19;Olszewskiego Karola 149-153;bud.handlowo-uslugowe;przebudowa czêœci pawilonu produkcyjno-us³ugowego na lokal;przebudowa;2010-03-30;10461/10;757/10;2010-04-19;2010;3;2010-03-01;15;17,1141934;51,1007089
+4045;897;;2010-04-20;Tunelowa;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzin;nowe;2010-02-15;paŸ-05;paŸ-63;2010-04-20;2010;2;2010-02-01;47;17,0647184;51,0632866
+4046;898;;2010-04-20;Pucka;bud.o trzech i wiêcej mieszkaniach;budynek wielorodzinny;nowe;2009-08-12;28406/09;paŸ-64;2010-04-20;2009;8;2009-08-01;180;16,9428267;51,1237417
+4047;899;;2010-04-20;Krzemieniecka 46;bud.handlowo-uslugowe;umarzam jako bezprzedmiotowe-rozbudowa stacji paliw;przebudowa;2010-03-25;10005/10;113/10;2010-04-20;2010;3;2010-03-01;19;16,9628317;51,0955503
+4048;900;;2010-04-20;Boles³awa Krzywoustego 304;bud.handlowo-uslugowe;umarzam postêpowanie administracyjne;przebudowa;2010-01-11;740/10;115/10;2010-04-20;2010;1;2010-01-01;72;17,1119339;51,146032
+4049;901;;2010-04-20;Graniczna 8C;zbiorniki,silosy i bud.magazynowe;przebudowa hali wraz ze zmian¹ sposobu u¿ytkowania;przebudowa;2010-04-14;12301/10;758/10;2010-04-20;2010;4;2010-04-01;5;16,9287139;51,1052701
+4050;902;;2010-04-20;Kaszubska 5;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego wraz z monta¿em wewn.inst.;przebudowa;2010-03-01;paŸ-49;759/10;2010-04-20;2010;3;2010-03-01;37;17,0301719;51,1210174
+4051;903;;2010-04-20;Pakistañska 7;ulice i drogi pozosta³e;zjazd z drogi; ÿÿ;2010-03-29;10355/10;760/10;2010-04-20;2010;3;2010-03-01;17;17,0837622;51,0617092
+4052;904;;2010-04-20;Ró¿ana 7-9;bud.o trzech i wiêcej mieszkaniach;ocieplenie œcian os³onowych budynku mieszkalnego wielorodz;przebudowa;2010-03-26;10182/10;761/10;2010-04-20;2010;3;2010-03-01;18;16,994186;51,0956349
+4053;905;;2010-04-20;Staroœciñska;linie elektroener.i telekom.rozdzielcz.;linii kablowej nn dla zasilania posesji;przy³¹cze;2010-02-19;paŸ-87;762/10;2010-04-20;2010;2;2010-02-01;43;17,0489771;51,1612446
+4054;906;;2010-04-20;Ostowa;zbiorniki,silosy i bud.magazynowe;monta¿ wew.instal.gaz.w budynku;inst.wewnêtrzna;2010-03-01;paŸ-74;763/10;2010-04-20;2010;3;2010-03-01;37;17,0060276;51,1655579
+4055;907;;2010-04-20;Kominiarska 91;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.oraz infrastruktury;nowe;2010-03-09;paŸ-15;764/10;2010-04-20;2010;3;2010-03-01;31;17,015157;51,1763209
+4056;908;;2010-04-20;Blacharska;bud.o trzech i wiêcej mieszkaniach;budowa budynku mieszkal.wielorodzin;nowe;2010-03-15;paŸ-72;765/10;2010-04-20;2010;3;2010-03-01;27;16,9892105;51,0817555
+4057;909;;2010-04-20;Grójecka 9;linie elektroener.i telekom.rozdzielcz.;budowa linii elektromagnetycznej nn dla zasilania bud.;nowe;2010-02-18;paŸ-30;766/10;2010-04-20;2010;2;2010-02-01;44;17,017685;51,07825
+4058;910;;2010-04-20;Ba³kañska 10;bud.mieszkalne jednorodzinne;budowa domu jednorodzinnego ;nowe;2010-03-01;paŸ-42;767/10;2010-04-20;2010;3;2010-03-01;37;17,0180289;51,1358733
+4059;911;;2010-04-21;Wiedeñska 5;bud.szkó³ i instytucji badawczych;umarzam postêpowanie administracyjne;przebudowa;2010-03-19;paŸ-83;116/10;2010-04-21;2010;3;2010-03-01;24;17,1341259;51,158702
+4060;912;;2010-04-21;Reja Miko³aja 17;bud.o trzech i wiêcej mieszkaniach;umarzam postêpowanie administracyjne;przebudowa;2009-11-27;42024/09;117/10;2010-04-21;2009;11;2009-11-01;104;17,0582241;51,1153728
+4061;913;;2010-04-21;Solny Plac 5;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-03-08;paŸ-08;768/10;2010-04-21;2010;3;2010-03-01;33;17,0292694;51,1099166
+4062;914;;2010-04-21;Augustowska;obiekty in¿ynierii l¹dowej i wodnej ;zarurowanie rowu;przebudowa;2010-03-04;paŸ-61;769/10;2010-04-21;2010;3;2010-03-01;35;16,9352093;51,1515003
+4063;915;;2010-04-21;Klecina;budowle in¿yn.do nawadniania;modernizacja rowu s-31 na odcinku od ujœcia do rzeki œlê¿y ;przebudowa;2010-03-24;paŸ-34;770/10;2010-04-21;2010;3;2010-03-01;21;16,978337;51,06354
+4064;916;;2010-04-21;Piastowska 25;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego oraz przebudowa wewn ;przebudowa;2010-02-17;paŸ-96;771/10;2010-04-21;2010;2;2010-02-01;46;17,0609189;51,1145639
+4065;917;;2010-04-21;Strachowicka 42B;bud.handlowo-uslugowe;stacja kontroli pojazdów;nowe;2010-04-13;12019/10;772/10;2010-04-21;2010;4;2010-04-01;7;16,9140209;51,117849
+4066;918;;2010-04-21;Rybacka 9;bud.biurowe;budynek biurowy;nowe;2009-09-02;31092/09;773/10;2010-04-21;2009;9;2009-09-01;166;17,0184233;51,1134115
+4067;919;;2010-04-21;Awicenny Ibn Siny;;przebudowa stacji redukcyjno-pomiarowej;;2010-02-17;paŸ-39;774/10;2010-04-21;2010;2;2010-02-01;46;16,9527389;51,0876197
+4068;920;;2010-04-21;Opatowicka;bud.mieszkalne jednorodzinne;dwóch budynków mieszkalnych jednorodzinnych;nowe;2010-02-12;paŸ-23;775/10;2010-04-21;2010;2;2010-02-01;49;17,1158087;51,0951204
+4069;921;;2010-04-21;Petra¿yckiego Leona 29;bud.mieszkalne jednorodzinne;przebudowa domu mieszkalnego w zab.bli¿niaczej;przebudowa;2010-03-01;paŸ-16;776/10;2010-04-21;2010;3;2010-03-01;38;16,9669298;51,0786252
+4070;922;;2010-04-21;Zwyciêska;ulice i drogi pozosta³e;budowa drogi na terenie wroc³awskiego toru wyœcigów konnych;nowe;2010-03-29;10424/10;777/10;2010-04-21;2010;3;2010-03-01;18;17,0056571;51,0596505
+4071;923;;2010-04-22;Nowowiejska 98;bud.o trzech i wiêcej mieszkaniach;rozbudowa wewn instalacji gazowej w lokalu mieszkalnym ;inst.wewnêtrzna;2010-03-12;paŸ-14;paŸ-65;2010-04-22;2010;3;2010-03-01;30;17,0592149;51,1186
+4072;924;;2010-04-22;Kobierzycka 20;zbiorniki,silosy i bud.magazynowe;postanawiam umorzyæ postêpowanie;nowe;2010-03-22;paŸ-02;119/10;2010-04-22;2010;3;2010-03-01;24;16,9875552;51,0576921
+4073;925;;2010-04-22;Kazimierza Wielkiego 15;bud.handlowo-uslugowe;przebudowa i remont lokalu us³ugowego w budynku handlowo-us³;przebudowa;2009-03-06;wrz-57;120/10;2010-04-22;2009;3;2009-03-01;295;17,0261779;51,109764
+4074;926;;2010-04-22;Antoniego Œw. 2/4;bud.biurowe;umarzam;urz¹dzenie;2010-04-06;11078/10;121/10;2010-04-22;2010;4;2010-04-01;13;17,0266974;51,1087025
+4075;927;;2010-04-22;Gagarina Jurija;bud.mieszkalne jednorodzinne;budowa osiedla jednorodzinnego;nowe;2010-03-31;10768/10;778/10;2010-04-22;2010;3;2010-03-01;17;16,9347137;51,0953801
+4076;928;;2010-04-22;Nowodworska 28;bud.o trzech i wiêcej mieszkaniach;monta¿ wew.instalcji gazu i centralnego ogrzewania ;inst.wewnêtrzna;2010-03-10;paŸ-38;779/10;2010-04-22;2010;3;2010-03-01;32;16,960302;51,1148959
+4077;929;;2010-04-22;Trójk¹tna 31;bud.mieszkalne jednorodzinne;budowa bud.mieszkal.;rozbudowa;2010-03-18;paŸ-52;780/10;2010-04-22;2010;3;2010-03-01;26;16,9212987;51,1408843
+4078;930;;2010-04-22;Popowicka 54;bud.o trzech i wiêcej mieszkaniach;przeb.lokalu mieszkalnego w bud.wielorodzinnym;przebudowa;2010-03-31;10657/10;781/10;2010-04-22;2010;3;2010-03-01;17;16,994321;51,125741
+4079;931;;2010-04-22;Gagarina Jurija;ruroci¹gi kanalizac.sieci ;;nowe;2010-03-09;paŸ-84;782/10;2010-04-22;2010;3;2010-03-01;33;16,9347137;51,0953801
+4080;932;;2010-04-22;Janowska;linie elektroener.i telekom.rozdzielcz.;budowa magistralii œwiat³owodowej;nowe;2010-02-18;paŸ-32;783/10;2010-04-22;2010;2;2010-02-01;46;16,9069681;51,1878024
+4081;933;;2010-04-22;Hirszfelda Ludwika Plac 12;bud.szpitali i zak³.opieki medycznej;wymiana klap p.po¿arowych w kana³ach wentylacyjn;przebudowa;2010-02-25;paŸ-65;784/10;2010-04-22;2010;2;2010-02-01;41;17,0163682;51,0947979
+4082;934;;2010-04-22;Górecka 1;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej;nowe;2010-03-05;paŸ-23;785/10;2010-04-22;2010;3;2010-03-01;35;16,8951402;51,1609379
+4083;935;;2010-04-22;Borowska 99;bud.kultury fizycznej;budowa multimedialnej zje¿d¿alni wodnej na terenie  parku wodnego;przebudowa;2010-04-06;11076/10;786/10;2010-04-22;2010;4;2010-04-01;13;17,032314;51,0909434
+4084;936;;2010-04-22;Brossa Wiktora 25;bud.mieszkalne jednorodzinne;rozbudowa budynku jednorordzinnego;rozbudowa;2010-04-12;11826/10;787/10;2010-04-22;2010;4;2010-04-01;9;17,0236278;51,0792982
+4085;937;;2010-04-22;Oficerska 6;bud.o trzech i wiêcej mieszkaniach;przebudowa czêœci korytarza klatki schodowej;przebudowa;2010-03-26;10179/10;788/10;2010-04-22;2010;3;2010-03-01;20;17,010972;51,092428
+4086;938;;2010-04-22;Kozia 17A;bud.o trzech i wiêcej mieszkaniach;przebudowa czêœci poddasza celem powiêkszenia lokalu ;rozbudowa;2010-04-01;10935/10;789/10;2010-04-22;2010;4;2010-04-01;16;16,9287329;51,158642
+4087;939;;2010-04-22;Gubiñska 1;;monta¿ tablicy reklamowej-podœwietlanej ;reklama;2010-03-12;paŸ-20;790/10;2010-04-22;2010;3;2010-03-01;30;16,9604909;51,112713
+4088;940;;2010-04-22;Strachowicka 40;zbiorniki,silosy i bud.magazynowe;przebudowa hali magazynowej;przebudowa;2010-03-23;paŸ-52;791/10;2010-04-22;2010;3;2010-03-01;23;16,9142742;51,1199632
+4089;941;;2010-04-22;Barlickiego Norberta 5;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-03-10;paŸ-35;792/10;2010-04-22;2010;3;2010-03-01;32;17,0482559;51,121488
+4090;942;;2010-04-23;Wiêckowskiego Stanis³awa 3;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku wielorodz;przebudowa;2010-04-07;11276/10;paŸ-66;2010-04-23;2010;4;2010-04-01;13;17,0541466;51,0993238
+4091;943;;2010-04-23;Kazimierza Wielkiego 15;bud.handlowo-uslugowe;remont lokalu us³ugowego w budynku handlowo-us³ugowym;przebudowa;2009-03-06;wrz-57;124/10;2010-04-23;2009;3;2009-03-01;296;17,0261779;51,109764
+4092;944;;2010-04-23;£ukowa 19;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy;nowe;2010-03-02;paŸ-35;793/10;2010-04-23;2010;3;2010-03-01;39;16,892619;51,140588
+4093;945;;2010-04-23;Gazowa 3;bud.biurowe;budowa linii elekrtomagnetycznej nn;przebudowa;2010-03-08;paŸ-68;794/10;2010-04-23;2010;3;2010-03-01;35;17,0677261;51,0780026
+4094;946;;2010-04-23;Barlickiego Norberta 36;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-02-12;paŸ-84;795/10;2010-04-23;2010;2;2010-02-01;51;17,0506121;51,1236525
+4095;947;;2010-04-23;Osiniecka;bud.mieszkalne jednorodzinne;przebudowa budynku mieszkal.jednorodzinn;nowe;2010-02-23;paŸ-57;796/10;2010-04-23;2010;2;2010-02-01;44;16,8973346;51,1212832
+4096;948;;2010-04-23;Gazowa 3;bud.biurowe;hala na budynek biurowy;przebudowa;2010-01-28;paŸ-13;797/10;2010-04-23;2010;1;2010-01-01;62;17,0677261;51,0780026
+4097;949;;2010-04-23;Mieroszowska 29;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy ;nowe;2010-02-25;paŸ-31;798/10;2010-04-23;2010;2;2010-02-01;42;16,895015;51,139006
+4098;950;;2010-04-23;Tarnogajska 61;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-03-30;10568/10;799/10;2010-04-23;2010;3;2010-03-01;19;17,063035;51,07824
+4099;951;;2010-04-23;Krucza 140;bud.o trzech i wiêcej mieszkaniach;monta¿ instalacji gazowej w mieszkaniu;inst.wewnêtrzna;2010-03-24;paŸ-23;800/10;2010-04-23;2010;3;2010-03-01;23;16,9984091;51,0936569
+4100;952;;2010-04-23;Karkonoska Aleja 85;bud.handlowo-uslugowe;rozbudowa  centrum handlowego;przebudowa;2010-03-19;paŸ-76;801/10;2010-04-23;2010;3;2010-03-01;26;16,9701061;51,0532287
+4101;953;;2010-04-23;Miko³aja Œw. 81;bud.handlowo-uslugowe;przebudowa budynku us³ugowo-biurowego;przebudowa;2010-02-16;paŸ-88;802/10;2010-04-23;2010;2;2010-02-01;49;17,0303885;51,1110183
+4102;954;;2010-04-26;Gazowa 3G;;reklama;reklama;2010-03-25;paŸ-42;paŸ-67;2010-04-26;2010;3;2010-03-01;23;17,0677261;51,0780026
+4103;955;;2010-04-26;¯migrodzka 249E;;umarzam jako bezprzedmiotowe ;reklama;2010-03-24;paŸ-71;125/10;2010-04-26;2010;3;2010-03-01;24;17,030441;51,160058
+4104;956;;2010-04-26;Szczeciñska 5A;ulice i drogi pozosta³e;umarzampostepowanie administracyjne-baza ;nowe;2010-03-01;paŸ-96;126/10;2010-04-26;2010;3;2010-03-01;41;16,9366056;51,1234027
+4105;957;;2010-04-26;Przedwioœnie;ruroci¹gi kanalizac.sieci;umarzam posteopowanie-przebudowa sieci ;przebudowa;2010-02-24;paŸ-20;127/10;2010-04-26;2010;2;2010-02-01;44;17,1097224;51,164505
+4106;958;;2010-04-26;Lubiñska 52;bud.o trzech i wiêcej mieszkaniach;przebudowa otworu okiennego;przebudowa;2010-03-31;10684/10;803/10;2010-04-26;2010;3;2010-03-01;19;17,0056799;51,118977
+4107;959;;2010-04-26;Œnie¿na 32;bud.niemieszkalne pozosta³e;budowa budynku gospodarczego;nowe;2010-02-23;paŸ-10;804/10;2010-04-26;2010;2;2010-02-01;45;16,8839529;51,1479722
+4108;960;;2010-04-26;K³okoczycka;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy;nowe;2010-02-26;paŸ-77;805/10;2010-04-26;2010;2;2010-02-01;42;17,0974348;51,156714
+4109;961;;2010-04-26;Ko³³¹taja Hugona 22A;bud.o trzech i wiêcej mieszkaniach;przebudowa i remont lokalu mieszkalnego w budynku wielorodzin;przebudowa;2010-03-31;10741/10;806/10;2010-04-26;2010;3;2010-03-01;19;17,0364801;51,1008316
+4110;962;;2010-04-26;G³ogowska 51;bud.o trzech i wiêcej mieszkaniach;przebudowa czêœci balkonu;przebudowa;2010-03-11;paŸ-97;807/10;2010-04-26;2010;3;2010-03-01;33;17,004307;51,1202229
+4111;963;;2010-04-26;Uniwersytecki Plac 15A;bud.o trzech i wiêcej mieszkaniach;przebudowa wew.instal.gaz.;inst.wewnêtrzna;2010-03-01;paŸ-07;808/10;2010-04-26;2010;3;2010-03-01;41;17,035673;51,113596
+4112;964;;2010-04-26;Szymanowskiego Karola 13;bud.o dwóch mieszkaniach;rozbudowa wewnêtrznej instalacji gazowej w lokalu  mieszkalnym ;inst.wewnêtrzna;2010-04-12;11930/10;809/10;2010-04-26;2010;4;2010-04-01;11;17,0843125;51,1187274
+4113;965;;2010-04-27;U³añska 30;bud.mieszkalne jednorodzinne;umorzenie postepowania-budynek jednorodzinny;nowe;2010-03-05;paŸ-42;128/10;2010-04-27;2010;3;2010-03-01;38;17,014922;51,052599
+4114;966;;2010-04-27;¯eglarska 24;bud.mieszkalne jednorodzinne;rozbudowa,przebudowa i remont budynku mieszkalnego ;rozbudowa;2010-03-15;paŸ-06;810/10;2010-04-27;2010;3;2010-03-01;32;16,9840656;51,0887862
+4115;967;;2010-04-27;Malborska 5A;bud.mieszkalne jednorodzinne;rozbudowa budynku  jednorodzinnego;rozbudowa;2010-02-22;paŸ-98;811/10;2010-04-27;2010;2;2010-02-01;47;17,1309843;51,1410565
+4116;968;;2010-04-27;Gubiñska 8;bud.o trzech i wiêcej mieszkaniach;"przebudowa pomieszczeñ lokalu us³ugowego nr 1 b"" ";przebudowa;2010-04-16;12514/10;812/10;2010-04-27;2010;4;2010-04-01;8;16,9579339;51,1139579
+4117;969;;2010-04-27;Kwaœna 2-4A;bud.o trzech i wiêcej mieszkaniach;remont balkonów,elewacji - docieplenie budynku ;remont;2010-03-23;paŸ-84;813/10;2010-04-27;2010;3;2010-03-01;26;17,0036059;51,094713
+4118;970;;2010-04-27;Strachociñska;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzinn;nowe;2010-03-23;paŸ-74;814/10;2010-04-27;2010;3;2010-03-01;26;17,153509;51,103896
+4119;971;;2010-04-27;Rêdziñska 69;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy;nowe;2010-03-26;10186/10;815/10;2010-04-27;2010;3;2010-03-01;23;16,949467;51,1553924
+4120;972;;2010-04-27;Strachociñska;bud.mieszkalne jednorodzinne;budynek jednorodzinny;nowe;2010-03-23;paŸ-73;816/10;2010-04-27;2010;3;2010-03-01;26;17,153509;51,103896
+4121;973;;2010-04-27;Górecka 1;bud.mieszkalne jednorodzinne;przebudowa i rozbudowa budynku gospodarcz.;przebudowa;2010-02-22;paŸ-70;817/10;2010-04-27;2010;2;2010-02-01;47;16,8951402;51,1609379
+4122;974;;2010-04-27;Œlê¿na 168;bud.o trzech i wiêcej mieszkaniach;przebudowa loaklu mieszkalnego;przebudowa;2010-04-13;12057/10;818/10;2010-04-27;2010;4;2010-04-01;11;17,0198316;51,0778982
+4123;975;;2010-04-28;Jeleniogórska 94;bud.mieszkalne jednorodzinne;umorzenie post.;rozbudowa;2010-02-22;paŸ-77;129/10;2010-04-28;2010;2;2010-02-01;48;16,883855;51,1529696
+4124;976;;2010-04-28;Balzaka Honoriusza 2;bud.mieszkalne jednorodzinne;nadbudowa budynku mieszkalnego;rozbudowa;2010-04-21;13096/10;819/10;2010-04-28;2010;4;2010-04-01;6;16,9617196;51,0760976
+4125;977;;2010-04-28;Ga³owska;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego ;nowe;2010-03-17;paŸ-78;820/10;2010-04-28;2010;3;2010-03-01;31;16,8580096;51,1172339
+4126;978;;2010-04-28;Piastowska 36;bud.o trzech i wiêcej mieszkaniach;przebudowa wewnêtrznej instalacji gazowej w lokalu  ;inst.wewnêtrzna;2010-03-30;10555/10;821/10;2010-04-28;2010;3;2010-03-01;22;17,060371;51,115226
+4127;979;;2010-04-28;Litewska 16B;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu us³ug.w bud.     mieszkal.uslug.;przebudowa;2010-03-10;paŸ-25;822/10;2010-04-28;2010;3;2010-03-01;36;17,1264953;51,1427169
+4128;980;;2010-04-28;Dró¿nicza 56;bud.mieszkalne jednorodzinne;przy³¹cze elektroenergetyczne;przy³¹cze;2010-03-29;10345/10;823/10;2010-04-28;2010;3;2010-03-01;23;17,066291;51,059261
+4129;981;;2010-04-28;Bia³ostocka 43;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny w zabudowie blizniaczej;nowe;2010-02-25;paŸ-41;824/10;2010-04-28;2010;2;2010-02-01;45;16,9246937;51,1638456
+4130;982;;2010-04-28;Krasiñskiego Zygmunta 5;bud.biurowe;przebudowa wêz³ów sanitar.;remont;2010-04-22;13310/10;825/10;2010-04-28;2010;4;2010-04-01;5;17,0441278;51,1078825
+4131;983;;2010-04-29;Œlepa 7;bud.o trzech i wiêcej mieszkaniach;umarzam jako bezprzedmiotowe-budynek wielorodzinn;nowe;2010-03-10;paŸ-90;130/10;2010-04-29;2010;3;2010-03-01;37;16,8732566;51,1402969
+4132;984;;2010-04-29;Traugutta Romualda Gen. 19/21 ;bud.szkó³ i instytucji badawczych;monta¿ wew.instal.gaz.w lokalu;inst.wewnêtrzna;2010-04-01;10862/10;826/10;2010-04-29;2010;4;2010-04-01;21;17,0443187;51,1059135
+4133;985;;2010-04-29;Krasiñskiego Zygmunta 1;bud.biurowe;remont nawierzchni podwórek wewnêtrznych przy budynku poczty;remont;2010-04-22;13309/10;827/10;2010-04-29;2010;4;2010-04-01;6;17,04445;51,1083373
+4134;986;;2010-04-29;Karkonoska Aleja;;noœnika reklamowego wolnostoj¹cego typu backight;reklama;2010-03-19;paŸ-31;828/10;2010-04-29;2010;3;2010-03-01;30;16,9916715;51,0600443
+4135;987;;2010-04-29;Sarbinowska 7;bud.o trzech i wiêcej mieszkaniach;zadaszenie balkonu mieszkania w budynku wielorodzinnym;przebudowa;2010-03-25;paŸ-67;829/10;2010-04-29;2010;3;2010-03-01;26;16,9446249;51,1263809
+4136;988;;2010-04-29;Koœciuszki Tadeusza 177;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkal.w budynku wielorodzinnym;przebudowa;2010-04-14;12131/10;830/10;2010-04-29;2010;4;2010-04-01;12;17,0540076;51,0977572
+4137;989;;2010-04-29;Wincentego Kad³ubka B³ogos³awionego 22A;bud.mieszkalne jednorodzinne;rozbudowa i nadbudowa budynku mieszkalnego;rozbudowa;2010-03-04;paŸ-07;831/10;2010-04-29;2010;3;2010-03-01;41;16,9678774;51,0734306
+4138;990;;2010-04-29;Przebiœniegowa;linie elektroener.i telekom.rozdzielcz.;linia napowietrzna;przebudowa;2010-03-04;paŸ-44;832/10;2010-04-29;2010;3;2010-03-01;41;17,1063081;51,1743549
+4139;991;;2010-04-29;GwiaŸdzista 61-63;bud.szpitali i zak³.opieki medycznej;przebudowa pomieszczeñ budynku centrum;przebudowa;2010-01-29;paŸ-26;833/10;2010-04-29;2010;1;2010-01-01;65;17,0185887;51,0952008
+4140;992;;2010-04-29;Benedykta Polaka 20;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkal.;zmiana spos.u¿ytk.;2010-03-04;paŸ-04;834/10;2010-04-29;2010;3;2010-03-01;41;17,0556098;51,1124261
+4141;993;;2010-04-29;Malarska;ulice i drogi pozosta³e;przebudowa nawierzchni chodnika;przebudowa;2010-04-07;11227/10;835/10;2010-04-29;2010;4;2010-04-01;17;17,0301495;51,1124
+4142;994;;2010-04-29;Komuny Paryskiej 43;bud.o trzech i wiêcej mieszkaniach;remont i przebudowa dachu i stropu strychowego budynku ;przebudowa;2010-04-23;13542/10;836/10;2010-04-29;2010;4;2010-04-01;5;17,0466409;51,1016878
+4143;995;;2010-04-29;Komuny Paryskiej 61;bud.o trzech i wiêcej mieszkaniach;remont fragmentów stropów w lokalu nr 13 w budynku mieszk;przebudowa;2010-04-23;13543/10;837/10;2010-04-29;2010;4;2010-04-01;5;17,04836;51,1008099
+4144;996;;2010-04-29;Niedzia³kowskiego Mieczys³awa 54;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzin;nowe;2010-04-14;12147/10;838/10;2010-04-29;2010;4;2010-04-01;12;17,1370278;51,108647
+4145;997;;2010-04-29;Rumiankowa;linie elektroener.i telekom.rozdzielcz.;linia elektroenergetyczna;nowe;2010-03-23;paŸ-97;839/10;2010-04-29;2010;3;2010-03-01;28;16,9241552;51,1214057
+4146;998;;2010-04-29;Piñska 1-3;zbiorniki,silosy i bud.magazynowe;budowa hali magazynow.warsztatow.etap pierwszy;nowe;2009-02-10;wrz-92;840/10;2010-04-29;2009;2;2009-02-01;318;16,94782;51,095928
+4147;999;;2010-04-30;Nowogródzka;ulice i drogi pozosta³e;budowa drogi wraz z budow¹ sieci wodoci¹gowej ;nowe;2010-02-09;paŸ-04;10-lut;2010-04-30;2010;2;2010-02-01;59;17,1353606;51,1409282
+4148;1000;;2010-04-30;Jubilerska;bud.mieszkalne jednorodzinne;umarzam postêpowanie;nowe;2010-02-09;paŸ-06;131/10;2010-04-30;2010;2;2010-02-01;59;17,0174371;51,1749769
+4149;1001;;2010-04-30;Meliorancka;bud.mieszkalne jednorodzinne;umarzam jako bezprzedmiotowe-budynek jednorodzinny;nowe;2009-01-20;wrz-42;132/10;2010-04-30;2009;1;2009-01-01;334;17,0107884;51,1682097
+4150;1002;;2010-04-30;Czerwonych Maków 11;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny;nowe;2010-02-26;paŸ-39;841/10;2010-04-30;2010;2;2010-02-01;46;17,0991642;51,1554339
+4151;1003;;2010-04-30;Wys³oucha Seweryna 1C;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy ;nowe;2010-03-02;paŸ-30;842/10;2010-04-30;2010;3;2010-03-01;44;16,9738095;51,074886
+4152;1004;;2010-05-04;Byczyñska 2B;bud.biurowe;budynek biurowy;nowe;2010-03-19;paŸ-70;paŸ-68;2010-05-04;2010;3;2010-03-01;33;17,1254199;51,118517
+4153;1005;;2010-05-04;Jajczarska 8;bud.o trzech i wiêcej mieszkaniach;wew.instalacja centralnego ogrzewania;inst.wewnêtrzna;2010-03-03;paŸ-48;843/10;2010-05-04;2010;3;2010-03-01;45;16,851636;51,141939
+4154;1006;;2010-05-04;Krucza 72;bud.o trzech i wiêcej mieszkaniach;kawiarnia;przebudowa;2010-04-23;13475/10;844/10;2010-05-04;2010;4;2010-04-01;8;17,00807;51,0932249
+4155;1007;;2010-05-04;Ostrowskiego Aleksandra 22;bud.szkó³ i instytucji badawczych;rozbudowa szko³y;rozbudowa;2010-04-02;11030/10;845/10;2010-05-04;2010;4;2010-04-01;23;16,9747354;51,094697
+4156;1008;;2010-05-05;Gajowa 76;bud.biurowe;przebudowa lokalu uzytkowego;przebudowa;2010-02-22;paŸ-29;846/10;2010-05-05;2010;2;2010-02-01;53;17,040686;51,08824
+4157;1009;;2010-05-05;Boles³awa Krzywoustego 271;bud.o trzech i wiêcej mieszkaniach;przy³¹cza telekomunikacyjnego do budynku;przy³¹cze;2010-04-13;12049/10;847/10;2010-05-05;2010;4;2010-04-01;17;17,1082979;51,145378
+4158;1010;;2010-05-05;Opatowicka 117A;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny;nowe;2010-03-23;paŸ-59;848/10;2010-05-05;2010;3;2010-03-01;32;17,130632;51,094123
+4159;1011;;2010-05-05;Kosynierów Gdyñskich 13;bud.o trzech i wiêcej mieszkaniach;prz³¹cze energetyczne do budynku;przy³¹cze;2010-03-22;paŸ-02;849/10;2010-05-05;2010;3;2010-03-01;33;17,0926899;51,1108629
+4160;1012;;2010-05-05;Marszowicka 101;bud.o dwóch mieszkaniach;budowa jednorodzin bud.mieszkal.;nowe;2010-04-16;12551/10;850/10;2010-05-05;2010;4;2010-04-01;14;16,87678;51,159522
+4161;1013;;2010-05-05;Strachociñska 158;;budowa zjazdu z drogi publicznej;;2010-03-26;10162/10;851/10;2010-05-05;2010;3;2010-03-01;29;17,1552786;51,1032089
+4162;1014;;2010-05-05;Obroñców Poczty Gdañskiej;bud.mieszkalne jednorodzinne;budynek jednorodzinny;nowe;2010-03-12;paŸ-43;852/10;2010-05-05;2010;3;2010-03-01;39;17,0111486;51,0527796
+4163;1015;;2010-05-05;Janiszewskiego Zygmunta;linie elektroener.i telekom.rozdzielcz.;telekomunikacyjna kanalizacja kablowa;nowe;2010-03-26;10245/10;853/10;2010-05-05;2010;3;2010-03-01;29;17,0599054;51,1096609
+4164;1016;;2010-05-05;Stab³owicka 166;ruroci¹gi gazu sieci rozdzielczej;budowa gazociagu n/c wraz z przy³¹czem dla potrzeb.bud.mieszkal.;nowe;2010-03-26;10175/10;854/10;2010-05-05;2010;3;2010-03-01;29;16,904086;51,1735289
+4165;1017;;2010-05-05;Stefczyka Franciszka 56;bud.mieszkalne jednorodzinne;przy³¹cze elektroenergetyczne do budynku jednorodzin;przy³¹cze;2010-04-12;11908/10;855/10;2010-05-05;2010;4;2010-04-01;18;17,1054991;51,1044234
+4166;1018;;2010-05-05;Szczytnicka 33;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania;przebudowa;2010-03-26;10169/10;856/10;2010-05-05;2010;3;2010-03-01;29;17,054119;51,1131169
+4167;1019;;2010-05-05;Piwniczna 3A;bud.mieszkalne jednorodzinne;przebudowa budynku jednorodzinnego;przebudowa;2010-04-16;12511/10;857/10;2010-05-05;2010;4;2010-04-01;14;17,086333;51,054711
+4168;1020;;2010-05-05;Weso³a 5,7,9;bud.o trzech i wiêcej mieszkaniach;docieplenie bud.mieszkal.;przebudowa;2010-04-27;13824/10;858/10;2010-05-05;2010;4;2010-04-01;7;17,034827;51,0911259
+4169;1021;;2010-05-05;Nasypowa 22A;bud.o trzech i wiêcej mieszkaniach;remont i przebudowa dachu i elewacji budynku .wielorodz.;przebudowa;2010-03-29;10395/10;859/10;2010-05-05;2010;3;2010-03-01;28;17,027357;51,100238
+4170;1022;;2010-05-05;Gazowa 3B;zbiorniki,silosy i bud.magazynowe;budowa budynku magazynowego z czêœci¹ socjaln¹;nowe;2010-03-02;paŸ-45;860/10;2010-05-05;2010;3;2010-03-01;47;17,0677261;51,0780026
+4171;1023;;2010-05-05;Stanis³awskiego Jana 7;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym;inst.wewnêtrzna;2010-04-14;12167/10;861/10;2010-05-05;2010;4;2010-04-01;16;17,1064989;51,1004296
+4172;1024;;2010-05-05;Rolnicza;bud.mieszkalne jednorodzinne;budynek jednorodzinny;nowe;2010-03-18;paŸ-38;862/10;2010-05-05;2010;3;2010-03-01;35;17,1504736;51,1090763
+4173;1025;;2010-05-05;Brzeziñska 12;bud.o trzech i wiêcej mieszkaniach;przebudowa i remont budynku mieszkal.;przebudowa;2010-03-11;paŸ-29;863/10;2010-05-05;2010;3;2010-03-01;40;16,8653781;51,1487692
+4174;1026;;2010-05-06;Cybulskiego Wojciecha 37;bud.o trzech i wiêcej mieszkaniach;przebudowa istniej.i bduowa nowych kominów wentylac;przebudowa;2010-03-01;paŸ-23;864/10;2010-05-06;2010;3;2010-03-01;49;17,0290441;51,1169619
+4175;1027;;2010-05-06;Ledóchowskiego Mieczys³awa Kard. 9;bud.o trzech i wiêcej mieszkaniach;przebudowa wew.instal.         gaz.w lokalu mieszkal.;inst.wewnêtrzna;2010-03-18;paŸ-98;865/10;2010-05-06;2010;3;2010-03-01;36;17,0488206;51,1205132
+4176;1028;;2010-05-06;Podwale 31-33;linie elektroener.i telekom.rozdzielcz.;wymiany urz¹dzeñ linii radiowych z antenami zainstalowanych ;remont;2010-03-18;paŸ-76;866/10;2010-05-06;2010;3;2010-03-01;36;17,027963;51,105027
+4177;1029;;2010-05-06;Powstañców Warszawy Plac 1;bud.biurowe;przebudowa poddasza  i remont dachu;przebudowa;2010-05-04;14691/10;867/10;2010-05-06;2010;5;2010-05-01;3;17,049633;51,109974
+4178;1030;;2010-05-06;Stargardzka -Droga Fabryczna 6B;ruroci¹gi gazu sieci rozdzielczej;budowa przy³.gazu œ/æ do budynku;przebudowa;2010-04-12;11881/10;868/10;2010-05-06;2010;4;2010-04-01;19;16,951117;51,131594
+4179;1031;;2010-05-06;Jemio³owa 33;bud.o trzech i wiêcej mieszkaniach;remont elewacji wraz z dociepleniem i kolorystyk¹ ;remont;2010-04-15;12433/10;869/10;2010-05-06;2010;4;2010-04-01;16;17,009345;51,097421
+4180;1032;;2010-05-06;Legnicka 60B;bud.handlowo-uslugowe;przebudowa strefy wjazdowej do czêœci serwisowej istn salonu ;nowe;2010-03-31;10760/10;870/10;2010-05-06;2010;3;2010-03-01;27;16,991152;51,121383
+4181;1033;;2010-05-06;D¹browskiego Jana Henryka Gen. 15;bud.o trzech i wiêcej mieszkaniach;monta¿ instalacji gazowej w lokalu mieszkalnym ;inst.wewnêtrzna;2010-04-28;14061/10;871/10;2010-05-06;2010;4;2010-04-01;7;17,0420465;51,1021726
+4182;1034;;2010-05-06;Marszowicka 111;bud.o dwóch mieszkaniach;dom jednorodzinny;nowe;2010-04-16;12549/10;872/10;2010-05-06;2010;4;2010-04-01;15;16,876186;51,1582549
+4183;1035;;2010-05-06;Koreañska 14A;bud.mieszkalne jednorodzinne;monta¿ wew.instal.gaz.w lokalu mieszkalnym;inst.wewnêtrzna;2010-04-13;12012/10;873/10;2010-05-06;2010;4;2010-04-01;18;17,087087;51,0572929
+4184;1036;;2010-05-06;Œlusarska 19B;bud.mieszkalne jednorodzinne;dobudowa komina do budynku mieszkal.;rozbudowa;2010-03-25;paŸ-56;874/10;2010-05-06;2010;3;2010-03-01;31;16,987628;51,08533
+4185;1037;;2010-05-06;Jêczmienna;bud.o trzech i wiêcej mieszkaniach;przebudowa wnetrza podwórzowego wraz z bud.kanalizacji;przebudowa;2010-03-04;paŸ-22;875/10;2010-05-06;2010;3;2010-03-01;46;17,0188008;51,1015676
+4186;1038;;2010-05-06;Cincia³y Andrzeja;bud.o trzech i wiêcej mieszkaniach;przebudowa wnetrza podwórzowego wraz z bud.obiektów ma³ej ;przebudowa;2010-03-10;paŸ-05;876/10;2010-05-06;2010;3;2010-03-01;42;17,0523309;51,1259711
+4187;1039;;2010-05-06;Paprotna 14;bud.biurowe;budynku biurowo-us³ugowego z gara¿em podziemnym ;nowe;2010-03-03;paŸ-40;877/10;2010-05-06;2010;3;2010-03-01;47;17,0231062;51,1554032
+4188;1040;;2010-05-07;Piêkna 62B;bud.szkó³ i instytucji badawczych;umarzam postêpowanie-przebudowa budynku us³ugowo-magazyn;przebudowa;2010-04-16;12562/10;133/10;2010-05-07;2010;4;2010-04-01;16;17,0582941;51,0862098
+4189;1041;;2010-05-07;£ukowa 6;bud.mieszkalne jednorodzinne;budynek jednorodzinny;nowe;2010-04-02;10959/10;878/10;2010-05-07;2010;4;2010-04-01;26;16,8915808;51,140058
+4190;1042;;2010-05-07;Borowska 99;bud.kultury fizycznej;rozbudowa inst elektrycznej oœwietlenia ;urz¹dzenie;2010-04-23;13479/10;879/10;2010-05-07;2010;4;2010-04-01;11;17,032314;51,0909434
+4191;1043;;2010-05-07;Kowieñska 43;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzinnego wolnostoj.;nowe;2010-03-04;paŸ-14;880/10;2010-05-07;2010;3;2010-03-01;47;17,136526;51,142148
+4192;1044;;2010-05-07;Kleciñska;linie elektroener.i telekom.rozdzielcz.;sieci telekomunikacyjnej msrk-odcinek 17 ;nowe;2010-04-08;11590/10;881/10;2010-05-07;2010;4;2010-04-01;22;16,9716544;51,1039481
+4193;1045;;2010-05-07;Nasienna 29;ruroci¹gi wodoci¹g.sieci ;przebudowa zewn.instalacji do budynku mieszkalnego;przebudowa;2010-04-09;11702/10;882/10;2010-05-07;2010;4;2010-04-01;21;16,9420507;51,1490446
+4194;1046;;2010-05-07;Marszowicka 103;bud.o dwóch mieszkaniach;budynek jednorodzinny;nowe;2010-04-16;12550/10;883/10;2010-05-07;2010;4;2010-04-01;16;16,876686;51,1592863
+4195;1047;;2010-05-07;Piastowska 36;bud.o trzech i wiêcej mieszkaniach;przebudowa wew.instal.gaz.w lokalu mieszkal.;inst.wewnêtrzna;2010-03-30;10553/10;884/10;2010-05-07;2010;3;2010-03-01;29;17,060371;51,115226
+4196;1048;;2010-05-07;Ostrowskiego Aleksandra 1;bud.o trzech i wiêcej mieszkaniach;przebudowa wejœcia do budynku mieszkalnego wielorodzinnego;remont;2010-04-15;12449/10;885/10;2010-05-07;2010;4;2010-04-01;17;16,9783584;51,0947975
+4197;1049;;2010-05-07;Antoniego Œw. 30;bud.kultu religijnego i czynnoœci religijnych;remont przyziemia elewacji frontowej oraz wykonanie poziomej ;remont;2010-04-09;11665/10;886/10;2010-05-07;2010;4;2010-04-01;21;17,0243735;51,1093464
+4198;1050;;2010-05-10;Powstañców Œl¹skich 16;;umorzenie post.;reklama;2010-04-21;13253/10;134/10;2010-05-10;2010;4;2010-04-01;14;17,017573;51,089253
+4199;1051;;2010-05-10;Jagodziñska 46;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzin;nowe;2010-04-14;12309/10;887/10;2010-05-10;2010;4;2010-04-01;19;17,064829;51,058346
+4200;1052;;2010-05-10;Têczowa 28;bud.o trzech i wiêcej mieszkaniach;monta¿ wew.instal.         gazu w mieszkaniu;inst.wewnêtrzna;2010-04-22;13424/10;888/10;2010-05-10;2010;4;2010-04-01;13;17,0178723;51,1061701
+4201;1053;;2010-05-10;Holenderska 5A;bud.mieszkalne jednorodzinne;nadbudowa budynku jednorodzinnego;rozbudowa;2010-04-26;13756/10;889/10;2010-05-10;2010;4;2010-04-01;11;16,9665089;51,108947
+4202;1054;;2010-05-10;Stab³owice;bud.o trzech i wiêcej mieszkaniach;budowa budynku mieszkal.wielorodzinnego z gara¿em;nowe;2007-11-16;44608/07;890/10;2010-05-10;2007;11;2007-11-01;647;16,9003899;51,1595505
+4203;1055;;2010-05-10;Bia³ostocka 30;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolnostoj¹cy;nowe;2010-02-26;paŸ-78;891/10;2010-05-10;2010;2;2010-02-01;52;16,922805;51,167555
+4204;1056;;2010-05-10;Góralska;linie elektroener.i telekom.rozdzielcz.;linii œwiat³owodowej relacji wroc³aw-poznañ;nowe;2010-04-16;12481/10;892/10;2010-05-10;2010;4;2010-04-01;17;17,002765;51,1090266
+4205;1057;;2010-05-10;Popowicka 20;bud.o trzech i wiêcej mieszkaniach;przebudowy lokalu mieszkalnego w budyn;przebudowa;2010-04-27;13811/10;893/10;2010-05-10;2010;4;2010-04-01;10;16,9982869;51,125706
+4206;1058;;2010-05-10;Mandarynkowa 5;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzin;nowe;2010-03-31;10646/10;894/10;2010-05-10;2010;3;2010-03-01;29;16,8938269;51,1574059
+4207;1059;;2010-05-10;Jaracza Stefana 9;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-04-16;12581/10;895/10;2010-05-10;2010;4;2010-04-01;17;17,0548076;51,1219536
+4208;1060;;2010-05-10;Spi¿owa 30;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-04-15;12405/10;896/10;2010-05-10;2010;4;2010-04-01;18;17,0005889;51,1025859
+4209;1061;;2010-05-10;Podró¿nicza 23;bud.mieszkalne jednorodzinne;przebudowa dachu w domu jednorodz.;przebudowa;2010-04-16;12494/10;897/10;2010-05-10;2010;4;2010-04-01;17;16,989158;51,0901919
+4210;1062;;2010-05-10;B¹ka Stanis³awa 9;bud.mieszkalne jednorodzinne;dom jedorodzinny;nowe;2010-04-12;11919/10;898/10;2010-05-10;2010;4;2010-04-01;21;16,8704979;51,1579846
+4211;1063;;2010-05-10;Marszowicka 97;bud.o dwóch mieszkaniach;budowa jednorodzinnego budynku mieszkal.;nowe;2010-04-16;12548/10;899/10;2010-05-10;2010;4;2010-04-01;17;16,87697;51,160033
+4212;1064;;2010-05-10;Ga³owska;bud.mieszkalne jednorodzinne;budowa dwóch budynków mieszkal.jednorodzin;nowe;2010-03-26;10267/10;900/10;2010-05-10;2010;3;2010-03-01;32;16,8580096;51,1172339
+4213;1065;;2010-05-11;Opolska 132A;bud.gospodarstw rolnych;monta¿u instalacjie elektrycznej w budynku szklarni;inst.wewnêtrzna;2010-04-09;11724/10;paŸ-69;2010-05-11;2010;4;2010-04-01;23;17,0919166;51,0719408
+4214;1066;;2010-05-11;Karmelkowa 25;;umarzam postêpowanie administracyjne jako bezprzedmiotowe;reklama;2010-03-19;paŸ-48;135/10;2010-05-11;2010;3;2010-03-01;38;16,9624688;51,0737733
+4215;1067;;2010-05-11;Pogodna 35;bud.mieszkalne jednorodzinne;dom jednorodzinny;nowe;2010-03-08;paŸ-62;901/10;2010-05-11;2010;3;2010-03-01;47;16,999059;51,0730757
+4216;1068;;2010-05-11;Most Brodzki;mosty,wiadukty i estakady;przebudowa mostu brodzkiego;remont;2010-03-25;10050/10;902/10;2010-05-11;2010;3;2010-03-01;34;16,906749;51,1884023
+4217;1069;;2010-05-11;Grunwaldzka 4;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkal.;przebudowa;2010-03-26;10232/10;903/10;2010-05-11;2010;3;2010-03-01;33;17,055363;51,115114
+4218;1070;;2010-05-11;Zielona 36;bud.mieszkalne jednorodzinne;rozbudowa czêœci budynku mieszkal.;rozbudowa;2009-11-09;39481/09;904/10;2010-05-11;2009;11;2009-11-01;132;16,8881169;51,147047
+4219;1071;;2010-05-11;Siemieñskiego Lucjana 13;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-03-23;paŸ-33;905/10;2010-05-11;2010;3;2010-03-01;36;17,0344415;51,1277575
+4220;1072;;2010-05-11;G³owackiego Bartosza 34;bud.mieszkalne jednorodzinne;przebudowa domu jednorodzinnego;przebudowa;2010-04-08;11595/10;906/10;2010-05-11;2010;4;2010-04-01;24;17,0962478;51,1119868
+4221;1073;;2010-05-11;Rogowska 20;bud.o trzech i wiêcej mieszkaniach;przebudowa  lokalu mieszkalnego w budynku wielorodz;przebudowa;2010-04-23;13608/10;907/10;2010-05-11;2010;4;2010-04-01;13;16,9562011;51,1170777
+4222;1074;;2010-05-11;D¹bie;ulice i drogi pozosta³e;przebudowa zjazdu z k³adki;przebudowa;2010-04-16;12463/10;908/10;2010-05-11;2010;4;2010-04-01;18;17,083909;51,1028357
+4223;1075;;2010-05-11;£ukowa 19;ulice i drogi pozosta³e;zjazdu z drogi publicznej gminnej-ul. ³ukowa;przebudowa;2010-04-07;11195/10;909/10;2010-05-11;2010;4;2010-04-01;25;16,892619;51,140588
+4224;1076;;2010-05-12;Rynek 19;bud.o trzech i wiêcej mieszkaniach;remont i przebudowa wew.instal.wodno-kanalizacyj.;przebudowa;2010-03-10;paŸ-15;910/10;2010-05-12;2010;3;2010-03-01;46;17,0314486;51,1092939
+4225;1077;;2010-05-12;Reja Miko³aja 20;bud.o trzech i wiêcej mieszkaniach;monta¿ insta.gaz.i central.ogrzew.w lokalu mieszkal.;inst.wewnêtrzna;2010-03-30;10612/10;912/10;2010-05-12;2010;3;2010-03-01;32;17,0576089;51,1153416
+4226;1078;;2010-05-12;Mieros³awskiego Ludwika Gen. 13;bud.mieszkalne jednorodzinne;przebudowa poddasza w budynku jednorodz;rozbudowa;2010-03-29;10322/10;913/10;2010-05-12;2010;3;2010-03-01;33;17,1069432;51,1111441
+4227;1079;;2010-05-12;Antoniego Œw. 2/4;bud.biurowe;przebudowa na poprowadzeniudwóch szachtów ;przebudowa;2010-03-15;paŸ-49;914/10;2010-05-12;2010;3;2010-03-01;43;17,0266974;51,1087025
+4228;1080;;2010-05-12;Kawalerzystów;linie elektroener.i telekom.rozdzielcz.;budowa sieci tvk;nowe;2010-03-30;10455/10;915/10;2010-05-12;2010;3;2010-03-01;32;17,0045165;51,0608064
+4229;1081;;2010-05-12;Jednoœci Narodowej 104;bud.o trzech i wiêcej mieszkaniach;remont wêz³ów sanitarnych w budynku wielorodzinnym;przebudowa;2010-03-10;paŸ-87;916/10;2010-05-12;2010;3;2010-03-01;46;17,0436619;51,1223369
+4230;1082;;2010-05-12;Miechowity Macieja 1;bud.kultury fizycznej;przebudowa czêœci hali nr 1-85/zse aspa sp.z o. o/;przebudowa;2010-04-09;11654/10;917/10;2010-05-12;2010;4;2010-04-01;24;17,0662958;51,1336128
+4231;1083;;2010-05-13;Sarbinowska 2-8;linie elektroener.i telekom.rozdzielcz.;przy³¹cza œwiat³owodowego od z³¹cza rozga³ê¿nego ;przy³¹cze;2010-03-12;paŸ-84;paŸ-70;2010-05-13;2010;3;2010-03-01;45;16,944233;51,127015
+4232;1084;;2010-05-13;Noskowskiego Zygmunta 12;bud.mieszkalne jednorodzinne;umarzam jako bezprzedmiotowe-odbudowa altany ;remont;2010-03-24;paŸ-89;136/10;2010-05-13;2010;3;2010-03-01;37;17,0866836;51,122058
+4233;1085;;2010-05-13;Miernicza 10;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania;przebudowa;2010-02-10;paŸ-79;918/10;2010-05-13;2010;2;2010-02-01;67;17,0499389;51,1023639
+4234;1086;;2010-05-13;In¿ynierska;ulice i drogi pozosta³e;przebudowa skrzy¿owania ulic;przebudowa;2010-04-23;13466/10;919/10;2010-05-13;2010;4;2010-04-01;15;16,9887402;51,0950882
+4235;1087;;2010-05-13;Ga³czyñskiego Konstantego Ildefonsa;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy z dobudowanym ;nowe;2010-03-18;paŸ-94;920/10;2010-05-13;2010;3;2010-03-01;41;17,0312172;51,055005
+4236;1088;;2010-05-13;Kozia 47;bud.o trzech i wiêcej mieszkaniach;przebudowa budynku mieszkalnego wielorodzinnego; ÿÿ;2010-03-09;paŸ-46;921/10;2010-05-13;2010;3;2010-03-01;48;16,930028;51,1593979
+4237;1089;;2010-05-13;Wyœcigowa 4;bud.handlowo-uslugowe;przebudowa kiosku;przebudowa;2010-04-23;13623/10;922/10;2010-05-13;2010;4;2010-04-01;15;17,0110731;51,071073
+4238;1090;;2010-05-13;Grabiszyñska 241;linie telekomunikacyjne ;wymiana urzadzeñ radiolinii;remont;2010-04-08;11470/10;923/10;2010-05-13;2010;4;2010-04-01;26;16,9879578;51,0971636
+4239;1091;;2010-05-13;Bartla Kazimierza;bud.szkó³ i instytucji badawczych;budowa przy³.       telekom.sieci komputerowej;przy³¹cze;2010-03-23;paŸ-27;924/10;2010-05-13;2010;3;2010-03-01;38;17,0709085;51,1098398
+4240;1092;;2010-05-13;Wiedeñska 5;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu u¿ytkowego w budynku mieszkalnym;przebudowa;2010-04-21;13126/10;925/10;2010-05-13;2010;4;2010-04-01;17;17,1341259;51,158702
+4241;1093;;2010-05-13;Ko³³¹taja Hugona 26;bud.handlowo-uslugowe;przebudowa lokalu handlowego;przebudowa;2010-03-17;paŸ-63;926/10;2010-05-13;2010;3;2010-03-01;42;17,0368416;51,1016669
+4242;1094;;2010-05-13;Majakowskiego W³odzimierza 14;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania;przebudowa;2010-03-25;paŸ-69;927/10;2010-05-13;2010;3;2010-03-01;36;16,9494369;51,1255369
+4243;1095;;2010-05-13;Kawalerzystów;linie elektroener.i telekom.rozdzielcz.;sieæ telewizji kablowej;nowe;2010-03-30;10454/10;928/10;2010-05-13;2010;3;2010-03-01;33;17,0045165;51,0608064
+4244;1096;;2010-05-13;Wyspiañskiego Stan.Wyb. 27;bud.szkó³ i instytucji badawczych;remont czêœci korytarzy w budynku politechniki;remont;2010-04-27;13826/10;929/10;2010-05-13;2010;4;2010-04-01;13;17,0385376;51,1078852
+4245;1097;;2010-05-13;Galla Anonima 4;bud.o trzech i wiêcej mieszkaniach;remont i przebudowa czêœci parteru na biuro obs³ugi klienta;przebudowa;2010-04-14;12192/10;930/10;2010-05-13;2010;4;2010-04-01;22;17,05932;51,131259
+4246;1098;;2010-05-13;Poniatowskiego Józefa Ksiêcia 17;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania;przebudowa;2010-03-17;paŸ-65;931/10;2010-05-13;2010;3;2010-03-01;42;17,0433918;51,120917
+4247;1099;;2010-05-14;Sudecka 156;bud.o trzech i wiêcej mieszkaniach;budowy wielorodzinnego budynku mieszkalnego;nowe;2010-03-12;paŸ-30;paŸ-71;2010-05-14;2010;3;2010-03-01;46;17,0142329;51,076239
+4248;1100;;2010-05-14;Szybka 2-10;linie telekomunikacyjne ;budowa stacji bazowej telefonii komórkowej na dachu budynku;nowe;2007-06-22;21200/07;paŸ-72;2010-05-14;2007;6;2007-06-01;756;17,0529559;51,102427
+4249;1101;;2010-05-14;Smoluchowskiego Mariana 25;bud.szkó³ i instytucji badawczych;przebudowa eklewacji bud.;przebudowa;2010-04-29;14275/10;932/10;2010-05-14;2010;4;2010-04-01;12;17,0646677;51,1074934
+4250;1102;;2010-05-14;Pszczelarska 9;bud.handlowo-uslugowe;przebudowa budynku handlowego;rozbudowa;2010-03-11;paŸ-79;933/10;2010-05-14;2010;3;2010-03-01;47;17,022519;51,057738
+4251;1103;;2010-05-14;Sienkiewicza Henryka 23;ruroci¹gi wodoci¹g.sieci ;budowa przy³.wody dla ogrodu botanicznego;przy³¹cze;2010-04-22;13307/10;934/10;2010-05-14;2010;4;2010-04-01;17;17,047491;51,116754
+4252;1104;;2010-05-14;Szanieckiego Jana;bud.mieszkalne jednorodzinne;przy³¹cze elektroenergetyczne do budynku;przy³¹cze;2010-04-12;11909/10;935/10;2010-05-14;2010;4;2010-04-01;25;17,1009493;51,1120937
+4253;1105;;2010-05-14;Gajowa 43;bud.o trzech i wiêcej mieszkaniach;przebudowa instalacji gazowej w mieszkaniu;przebudowa;2010-03-30;10636/10;936/10;2010-05-14;2010;3;2010-03-01;34;17,0400944;51,0900535
+4254;1106;;2010-05-14;Powstañców Œl¹skich 2;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-04-12;11921/10;937/10;2010-05-14;2010;4;2010-04-01;25;17,027843;51,099796
+4255;1107;;2010-05-14;Bia³oskórnicza 3,4;bud.o trzech i wiêcej mieszkaniach;wew.instalacja centralnego ogrzewania;inst.wewnêtrzna;2010-05-07;15179/10;938/10;2010-05-14;2010;5;2010-05-01;6;17,027313;51,1108979
+4256;1108;;2010-05-14;Opolska 11-19;bud.o trzech i wiêcej mieszkaniach;budynek mieszkalny wielorodzinny;nowe;2010-03-18;paŸ-37;939/10;2010-05-14;2010;3;2010-03-01;42;17,079303;51,08018
+4257;1109;;2010-05-14;Weigla Rudolfa 10 ;bud.handlowo-uslugowe;przebudowa lokalu handlowego na aptekê;przebudowa;2010-04-02;11034/10;940/10;2010-05-14;2010;4;2010-04-01;31;17,019996;51,0767096
+4258;1110;;2010-05-14;Sztabowa 73;bud.niemieszkalne pozosta³e;remont i przebud.lokalu na pomieszczenie gospodar.w budynku ;przebudowa;2010-05-07;15146/10;941/10;2010-05-14;2010;5;2010-05-01;6;17,013013;51,088744
+4259;1111;;2010-05-17;Pilczycka 144-148;bud.szpitali i zak³.opieki medycznej;przebudowa szpitala;przebudowa;2010-03-30;10458/10;paŸ-73;2010-05-17;2010;3;2010-03-01;35;16,9561195;51,1411343
+4260;1112;;2010-05-17;Grabiszyñska 305;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu i instalacji co w lokalu;inst.wewnêtrzna;2010-03-30;10580/10;942/10;2010-05-17;2010;3;2010-03-01;35;16,9775989;51,093036
+4261;1113;;2010-05-17;M³odzie¿owa 27;bud.mieszkalne jednorodzinne;przy³¹cza gazowego œredniego ciœnienia dla budynku;przy³¹cze;2010-04-09;11682/10;943/10;2010-05-17;2010;4;2010-04-01;27;16,858189;51,1522719
+4262;1114;;2010-05-17;Dró¿nicza;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy z wbudowanym;nowe;2010-04-16;12532/10;944/10;2010-05-17;2010;4;2010-04-01;22;17,0615234;51,0591232
+4263;1115;;2010-05-17;Perska 6;ruroci¹gi gazu sieci rozdzielczej;sieæ gazowa;nowe;2010-04-12;11759/10;945/10;2010-05-17;2010;4;2010-04-01;26;17,081922;51,0532379
+4264;1116;;2010-05-17;Boles³awa Krzywoustego;linie elektroener.i telekom.rozdzielcz.;przy³¹cze elektroenergetyczne nn;nowe;2010-04-14;12191/10;946/10;2010-05-17;2010;4;2010-04-01;24;17,0924111;51,1417366
+4265;1117;;2010-05-17;Norweska 25;bud.mieszkalne jednorodzinne;dobudowa schodów do budynku jednorodzinnego;rozbudowa;2010-04-16;12564/10;947/10;2010-05-17;2010;4;2010-04-01;22;16,965545;51,1074
+4266;1118;;2010-05-17;Obroñców Poczty Gdañskiej 18;bud.mieszkalne jednorodzinne;przebudowa dachu w budynku jednorodzinnym;remont;2008-06-05;22092/08;948/10;2010-05-17;2008;6;2008-06-01;508;17,013535;51,0569349
+4267;1119;;2010-05-17;Staszica Stanis³awa Plac 8;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego;przebudowa;2010-03-31;10649/10;949/10;2010-05-17;2010;3;2010-03-01;34;17,02923;51,1234379
+4268;1120;;2010-05-17;Osadnicza;ruroci¹gi kanalizac.sieci;przebudowa pompowni osiedlowej œcieków sanitarnych ;nowe;2010-04-20;12924/10;950/10;2010-05-17;2010;4;2010-04-01;20;17,1424875;51,1103439
+4269;1121;;2010-05-17;Wincentego Œw. 7;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego wraz z wewnêtrzn¹ instalacj¹ ;przebudowa;2010-04-12;11943/10;951/10;2010-05-17;2010;4;2010-04-01;26;17,0317585;51,1220013
+4270;1122;;2010-05-17;Ho¿a;bud.mieszkalne jednorodzinne;przy¹cza gazowego niskiego ciœniania dla budynku;przy³¹cze;2010-04-09;11681/10;952/10;2010-05-17;2010;4;2010-04-01;27;16,8956301;51,1600427
+4271;1123;;2010-05-17;£anowa 1;bud.mieszkalne jednorodzinne;rozbudowa,nadbudowa i przebudowa budynku mieszkalnego;rozbudowa;2010-04-12;11834/10;953/10;2010-05-17;2010;4;2010-04-01;26;16,9822509;51,0662899
+4272;1124;;2010-05-18;Karpacka 20;bud.mieszkalne jednorodzinne;nadbudowa budynku mieszkal.jednorodzin;rozbudowa;2010-03-19;paŸ-06;paŸ-74;2010-05-18;2010;3;2010-03-01;43;16,943074;51,093503
+4273;1125;;2010-05-18;Wyszyñskiego Stefana Kardyna³a 104;bud.o trzech i wiêcej mieszkaniach;przebudowa wew.instalacji gazu;inst.wewnêtrzna;2010-03-25;paŸ-54;paŸ-75;2010-05-18;2010;3;2010-03-01;39;17,0526993;51,1232294
+4274;1126;;2010-05-18;Brodzka 10A;linie telekomunikacyjne ;stacja bazowa;nowe;2010-03-25;paŸ-43;paŸ-76;2010-05-18;2010;3;2010-03-01;39;16,916381;51,1602307
+4275;1127;;2010-05-18;Idzikowskiego Ludwika;ulice i drogi pozosta³e;umorzenie post.;nowe;2010-04-06;11075/10;139/10;2010-05-18;2010;4;2010-04-01;31;16,9586257;51,1286168
+4276;1128;;2010-05-18;Wid³akowa;bud.mieszkalne jednorodzinne;umorzenie post.;nowe;2010-04-26;13752/10;140/10;2010-05-18;2010;4;2010-04-01;17;16,8947896;51,1149241
+4277;1129;;2010-05-18;Mewia 6;bud.mieszkalne jednorodzinne;umorzenie post.;rozbudowa;2010-03-10;paŸ-42;141/10;2010-05-18;2010;3;2010-03-01;50;17,0820972;51,1340901
+4278;1130;;2010-05-18;D³ugopolska 13;bud.mieszkalne jednorodzinne;rozbudowa budynku mieszkal.jednorodzin;rozbudowa;2010-03-09;paŸ-35;954/10;2010-05-18;2010;3;2010-03-01;51;17,035791;51,074234
+4279;1131;;2010-05-18;Przybyszewskiego Stanis³awa 22;bud.mieszkalne jednorodzinne;rozbudowa budynku mieszkal.jednorodzin;rozbudowa;2010-04-22;13328/10;955/10;2010-05-18;2010;4;2010-04-01;19;17,0600124;51,1359998
+4280;1132;;2010-05-18;Rynek 25;bud.handlowo-uslugowe;remont elewacji oraz czêœci bud.handlowo-us³ug.;remont;2010-03-16;paŸ-20;956/10;2010-05-18;2010;3;2010-03-01;46;17,0322231;51,1091175
+4281;1133;;2010-05-18;Traugutta Romualda Gen. 59;bud.kultu religijnego i czynnoœci religijnych;remont dachu auli w klasztorze;remont;2010-04-29;14200/10;957/10;2010-05-18;2010;4;2010-04-01;14;17,049377;51,1036571
+4282;1134;;2010-05-18;Rozbrat 3;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-03-26;10221/10;958/10;2010-05-18;2010;3;2010-03-01;38;17,053265;51,1179909
+4283;1135;;2010-05-18;Igielna 13;bud.muzeów i bibliotek;rozbudowa lokalu gastronomicznego;zmiana spos.u¿ytk.;2010-04-02;11048/10;959/10;2010-05-18;2010;4;2010-04-01;33;17,031638;51,1115159
+4284;1136;;2010-05-18;Miernicza 10;bud.o trzech i wiêcej mieszkaniach;przeb.lokal mieszkal.w bud.wielorodz.;przebudowa;2010-03-31;10641/10;960/10;2010-05-18;2010;3;2010-03-01;35;17,0499389;51,1023639
+4285;1137;;2010-05-18;Mickiewicza Adama 18C;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzin;nowe;2010-03-31;10749/10;961/10;2010-05-18;2010;3;2010-03-01;35;17,0752715;51,1105354
+4286;1138;;2010-05-19;Pierwszej Dywizji 17;bud.mieszkalne jednorodzinne;rozbudowa budynku mieszkalnego jednorodzinnego ;przebudowa;2010-04-23;13584/10;962/10;2010-05-19;2010;4;2010-04-01;19;17,104073;51,109108
+4287;1139;;2010-05-19;Sztabowa 32;bud.handlowo-uslugowe;przy³¹cza elektroenergetycznego nn dla zasilania bud;przy³¹cze;2010-03-24;paŸ-03;963/10;2010-05-19;2010;3;2010-03-01;41;17,0110496;51,0896858
+4288;1140;;2010-05-19;Abrahama Romana Gen. 20;bud.mieszkalne jednorodzinne;nadbudowa budynku mieszkalnego jednorodzinnego;rozbudowa;2010-04-22;13451/10;964/10;2010-05-19;2010;4;2010-04-01;20;17,0196089;51,0564655
+4289;1141;;2010-05-19;Podchor¹¿ych;bud.o trzech i wiêcej mieszkaniach;przy³¹cza elektroenergetycznego  nn dla zasilania bud;przy³¹cze;2010-04-23;13573/10;965/10;2010-05-19;2010;4;2010-04-01;19;17,0106487;51,0888325
+4290;1142;;2010-05-19;Grunwaldzki Plac 23;bud.biurowe;przebudowa pomieszczeñ biurowych;przebudowa;2010-05-06;14988/10;966/10;2010-05-19;2010;5;2010-05-01;10;17,0625485;51,1122954
+4291;1143;;2010-05-19;Sopocka 9;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-04-26;13773/10;967/10;2010-05-19;2010;4;2010-04-01;18;17,06797;51,1166879
+4292;1144;;2010-05-19;Koreañska 64;bud.mieszkalne jednorodzinne;przebudowa ³azienki;przebudowa;2010-05-13;15861/10;968/10;2010-05-19;2010;5;2010-05-01;5;17,083897;51,051238
+4293;1145;;2010-05-19;Szybowcowa 19A;ruroci¹gi gazu sieci rozdzielczej;budowa gazociagu  wraz z przy³.do budynku mieszkal.;nowe;2010-04-06;11079/10;969/10;2010-05-19;2010;4;2010-04-01;32;16,968722;51,12959
+4294;1146;;2010-05-19;Hallera Józefa Gen. Aleja 92-98;bud.o trzech i wiêcej mieszkaniach;budowa przy³.telekom.do bud.mieszkal.;przy³¹cze;2010-04-20;12839/10;970/10;2010-05-19;2010;4;2010-04-01;22;16,9946748;51,0893961
+4295;1147;;2010-05-19;Z³ocieniowa 6;bud.mieszkalne jednorodzinne;przebudowa budynku goaspodarczego ;zmiana spos.u¿ytk.;2010-04-22;13311/10;971/10;2010-05-19;2010;4;2010-04-01;20;17,106797;51,1683449
+4296;1148;;2010-05-19;S³owiañska 12;bud.o trzech i wiêcej mieszkaniach;remont  i ocieplenie œcian zew.w budynku mieszkalno-us³ugowego;remont;2010-04-15;12337/10;972/10;2010-05-19;2010;4;2010-04-01;25;17,040163;51,123632
+4297;1149;;2010-05-19;Odrodzenia Polski 8;bud.o dwóch mieszkaniach;rozbudowa budynku jednorodzinnego;rozbudowa;2010-03-18;paŸ-39;973/10;2010-05-19;2010;3;2010-03-01;45;17,1278729;51,1640109
+4298;1150;;2010-05-19;U³añska 66-68;bud.o trzech i wiêcej mieszkaniach;budowa 3 bud.mieszkal.wielorodz.z zgara¿em;nowe;2010-03-19;paŸ-19;974/10;2010-05-19;2010;3;2010-03-01;44;17,012657;51,053427
+4299;1151;;2010-05-19;A³unowa 4;bud.mieszkalne jednorodzinne;rozbudowa budynku mieszkalnego o sklep spo¿ywczy;rozbudowa;2010-05-06;14930/10;975/10;2010-05-19;2010;5;2010-05-01;10;17,0457486;51,160416
+4300;1152;;2010-05-19;Roœlinna 7;bud.mieszkalne jednorodzinne;rozbudowa budynku mieszkalnego jednorodzinnego ;rozbudowa;2010-05-04;14697/10;976/10;2010-05-19;2010;5;2010-05-01;12;16,943064;51,1005399
+4301;1153;;2010-05-19;Nowodworska 51A;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkal.;przebudowa;2010-04-27;13957/10;977/10;2010-05-19;2010;4;2010-04-01;17;16,959338;51,1155039
+4302;1154;;2010-05-19;Tomaszowska 12;bud.o trzech i wiêcej mieszkaniach;docieplenie bud.mieszkal.wielorodz;przebudowa;2010-05-14;16050/10;978/10;2010-05-19;2010;5;2010-05-01;4;17,0391999;51,0899239
+4303;1155;;2010-05-20;Tatrzañska 8;bud.mieszkalne jednorodzinne;rozbudowa budynku jednorodzinnego;rozbudowa;2010-04-02;10994/10;paŸ-77;2010-05-20;2010;4;2010-04-01;35;16,8880759;51,149657
+4304;1156;;2010-05-20;Nowowiejska 15;bud.o trzech i wiêcej mieszkaniach;rozbudowa wewnêtrznej instalacji gazowej w lokalu mieszkalnym;inst.wewnêtrzna;2010-04-29;14289/10;979/10;2010-05-20;2010;4;2010-04-01;16;17,0476248;51,1238079
+4305;1157;;2010-05-20;Mennicza 21-23;linie elektroener.i telekom.rozdzielcz.;stacji prostownikowej na terenie szko³y podstawowej ;nowe;2010-04-01;10896/10;980/10;2010-05-20;2010;4;2010-04-01;36;17,0356161;51,1062593
+4306;1158;;2010-05-20;Strzegomska 36;linie elektroener.i telekom.rozdzielcz.;przebudowa sieci elektroenergetycznej sn ,nn i oœwietlenia;przebudowa;2010-04-02;11050/10;981/10;2010-05-20;2010;4;2010-04-01;35;17,0002825;51,1129418
+4307;1159;;2010-05-20;Horbaczewskiego Eugeniusza 4-6;bud.handlowo-uslugowe;przebudowa  sali sprzeda¿y;przebudowa;2010-05-06;14996/10;982/10;2010-05-20;2010;5;2010-05-01;11;16,975691;51,1266332
+4308;1160;;2010-05-20;Œlê¿na 174;bud.o trzech i wiêcej mieszkaniach;monta¿ wew.instal.gaz.dla lokalu mieszkal.;inst.wewnêtrzna;2010-05-04;14573/10;983/10;2010-05-20;2010;5;2010-05-01;13;17,0195244;51,0775584
+4309;1161;;2010-05-20;Jaracza Stefana 24;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-04-26;13673/10;984/10;2010-05-20;2010;4;2010-04-01;19;17,0557537;51,1232123
+4310;1162;;2010-05-20;Opatowicka 117;bud.mieszkalne jednorodzinne;budowa bud.mieszkal.wraz z przy³¹czami;nowe;2010-04-02;10965/10;985/10;2010-05-20;2010;4;2010-04-01;35;17,1306849;51,0941483
+4311;1163;;2010-05-20;Conrada-Korzeniowskiego Józefa Wyb. 9;bud.o trzech i wiêcej mieszkaniach;przebudowa wew.instal.gaz.i central.ogrzewania ;inst.wewnêtrzna;2010-04-22;13305/10;986/10;2010-05-20;2010;4;2010-04-01;21;17,0346629;51,13014
+4312;1164;;2010-05-20;Buforowa 117;bud.mieszkalne jednorodzinne;rozbudowa budynku jednorodzinnego;rozbudowa;2010-03-29;10425/10;987/10;2010-05-20;2010;3;2010-03-01;39;17,0591119;51,048464
+4313;1165;;2010-05-20;Miêdzyleska 4;bud.biurowe;nadbudowa budynku biurowo-socjalnego;rozbudowa;2010-04-12;11916/10;988/10;2010-05-20;2010;4;2010-04-01;29;17,0698159;51,0789762
+4314;1166;;2010-05-20;Angielska 19;bud.mieszkalne jednorodzinne;rozbudowa budynku jednorodzinnego;rozbudowa;2010-04-22;13366/10;989/10;2010-05-20;2010;4;2010-04-01;21;16,9655239;51,1094979
+4315;1167;;2010-05-20;Czekoladowa 77;linie telekomunikacyjne ;stacji bazowej umts wro 1127 wraz z budow¹ wolno stoj¹cego masztu ;nowe;2010-03-25;10006/10;990/10;2010-05-20;2010;3;2010-03-01;41;16,974124;51,058557
+4316;1168;;2010-05-20;¯ernicka 227;bud.mieszkalne jednorodzinne;remont elewacji i ocieplenie budynku mieszkalnego jednorodz;remont;2010-04-14;12293/10;991/10;2010-05-20;2010;4;2010-04-01;27;16,922376;51,12375
+4317;1169;;2010-05-20;Bierutowska 4-6;bud.handlowo-uslugowe;przebudowa budynku pawilonu handlowego;przebudowa;2010-04-15;12377/10;992/10;2010-05-20;2010;4;2010-04-01;26;17,1168419;51,1483829
+4318;1170;;2010-05-20;Krawiecka 3;bud.handlowo-uslugowe;przebudowa lokalu us³ugowego w hotelu;przebudowa;2010-04-12;11951/10;993/10;2010-05-20;2010;4;2010-04-01;29;17,038124;51,108763
+4319;1171;;2010-05-20;Opatowicka;ruroci¹gi wodoci¹g.sieci ;magistrali wodoci¹gowej pó³nocnej zadanie 1 etap 1b;nowe;2010-03-26;10201/10;994/10;2010-05-20;2010;3;2010-03-01;40;17,1158087;51,0951204
+4320;1172;;2010-05-20;Jab³eczna 15-21;bud.o trzech i wiêcej mieszkaniach;docieplenie bud.mieszkal,.wielorodz;przebudowa;2010-05-11;15411/10;995/10;2010-05-20;2010;5;2010-05-01;8;17,0377312;51,0794152
+4321;1173;;2010-05-21;Przednia 16;bud.mieszkalne jednorodzinne;umorzenie post.;nowe;2010-04-12;11922/10;142/10;2010-05-21;2010;4;2010-04-01;30;16,929581;51,123458
+4322;1174;;2010-05-21;Graniczna;bud.przemys³owe;przebud.hali wraz ze zmiana sposobu u¿yt.na czêœæ socjal.biur.;przebudowa;2010-05-14;16070/10;996/10;2010-05-21;2010;5;2010-05-01;6;16,9142661;51,1086735
+4323;1175;;2010-05-21;Wolnoœci Plac 7A;zbiorniki,silosy i bud.magazynowe;wzmocnienie ³aw fundamentowych i stropu nad piwnic¹ ;nowe;2010-03-31;10665/10;997/10;2010-05-21;2010;3;2010-03-01;38;17,0277138;51,1070165
+4324;1176;;2010-05-21;Fabryczna 10;bud.przemys³owe;przebudowa nawy hali;nowe;2010-04-29;14304/10;998/10;2010-05-21;2010;4;2010-04-01;17;16,9913515;51,1118866
+4325;1177;;2010-05-21;Siedlecka 13;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy ;nowe;2010-03-25;paŸ-74;999/10;2010-05-21;2010;3;2010-03-01;42;16,920778;51,166784
+4326;1178;;2010-05-21;Solskiego Ludwika 51;bud.o dwóch mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-04-29;14309/10;1000/10;2010-05-21;2010;4;2010-04-01;17;16,9697106;51,0823462
+4327;1179;;2010-05-21;Podwórcowa 11;bud.o trzech i wiêcej mieszkaniach;przebudowa i remont budynku wielorodzinnego;przebudowa;2010-03-11;paŸ-28;1001/10;2010-05-21;2010;3;2010-03-01;52;17,0284854;51,1219122
+4328;1180;;2010-05-21;Skar¿yñskiego Stanis³awa Pp³k;ruroci¹gi kanalizac.sieci ;sieæ kanalizacji sanitarnej;nowe;2010-04-26;13722/10;1002/10;2010-05-21;2010;4;2010-04-01;20;16,8997552;51,1080554
+4329;1181;;2010-05-21;Gi¿ycka 54;bud.mieszkalne jednorodzinne;monta¿ wewnêtrznej instalacji gazowej w budynku mieszkalnym ;inst.wewnêtrzna;2010-05-13;15771/10;1003/10;2010-05-21;2010;5;2010-05-01;7;17,0746883;51,1324871
+4330;1182;;2010-05-21;£aniewska 37;bud.mieszkalne jednorodzinne;przebudowa budynku mieszkalnego jednorodzinnego;przebudowa;2010-05-18;16409/10;1004/10;2010-05-21;2010;5;2010-05-01;4;17,151597;51,101205
+4331;1183;;2010-05-21;Kleczkowska 14;bud.o trzech i wiêcej mieszkaniach;monta¿ wew.instal.gazu.dla lokalu mieszkal.;inst.wewnêtrzna;2010-05-10;15278/10;1005/10;2010-05-21;2010;5;2010-05-01;10;17,033141;51,126664
+4332;1184;;2010-05-21;Grunwaldzki Plac 23;bud.biurowe;przebudowa lokalu w parterze budynku kompleksu;przebudowa;2010-03-30;10627/10;1006/10;2010-05-21;2010;3;2010-03-01;39;17,0625485;51,1122954
+4333;1185;;2010-05-21;Jesiennicka;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej ss i linii œwiat³owodowej;nowe;2010-04-20;12849/10;1007/10;2010-05-21;2010;4;2010-04-01;24;16,8829513;51,149006
+4334;1186;;2010-05-21;Siedlecka 15;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny wolno stoj¹cy ;nowe;2010-03-25;paŸ-72;1008/10;2010-05-21;2010;3;2010-03-01;42;16,9209329;51,1668139
+4335;1187;;2010-05-21;O³awska 11;bud.handlowo-uslugowe;przebudowa budynku us³ugowo-handlowo-biurowego;przebudowa;2010-03-18;paŸ-41;1009/10;2010-05-21;2010;3;2010-03-01;47;17,0349149;51,1084229
+4336;1188;;2010-05-21;Grunwaldzki Plac 23;;ustawienie reklemy œwietlnej;reklama;2010-03-12;paŸ-97;1010/10;2010-05-21;2010;3;2010-03-01;51;17,0625485;51,1122954
+4337;1189;;2010-05-21;Pustecka;ruroci¹gi wodoci¹g.sieci ;budowa sieci wodoci¹gowej;nowe;2010-03-29;10386/10;1011/10;2010-05-21;2010;3;2010-03-01;40;16,8498094;51,1422252
+4338;1190;;2010-05-24;Strzegomska;;budowy noœnika reklamowego wolno stoj¹cego;reklama;2010-04-19;12760/10;paŸ-78;2010-05-24;2010;4;2010-04-01;26;16,9779648;51,1141757
+4339;1191;;2010-05-24;Wyœcigowa 41;bud.mieszkalne jednorodzinne;rozbudowa poddasza w budynku mieszklnym jednorodzinnym;rozbudowa;2010-05-13;15876/10;1012/10;2010-05-24;2010;5;2010-05-01;8;17,007852;51,0673849
+4340;1192;;2010-05-24;Rzeszowska 69;bud.mieszkalne jednorodzinne;rozbudowa budynku mieszkal.jednorodzin;rozbudowa;2010-05-06;14985/10;1013/10;2010-05-24;2010;5;2010-05-01;13;16,887915;51,1330398
+4341;1193;;2010-05-24;Pereca Icchaka Lejba 5;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym;inst.wewnêtrzna;2010-04-26;13661/10;1014/10;2010-05-24;2010;4;2010-04-01;21;17,0078646;51,1004081
+4342;1194;;2010-05-24;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzinn;nowe;2010-04-07;11253/10;1015/10;2010-05-24;2010;4;2010-04-01;34;16,859989;51,154095
+4343;1195;;2010-05-24;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzin;nowe;2010-04-07;11249/10;1016/10;2010-05-24;2010;4;2010-04-01;34;16,859989;51,154095
+4344;1196;;2010-05-24;Harcerska 2A;bud.mieszkalne jednorodzinne;rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego ;rozbudowa;2010-04-16;12518/10;1017/10;2010-05-24;2010;4;2010-04-01;27;16,9648499;51,083517
+4345;1197;;2010-05-24;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny w zabudowie szeregowej ;nowe;2010-04-07;11245/10;1018/10;2010-05-24;2010;4;2010-04-01;34;16,859989;51,154095
+4346;1198;;2010-05-24;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny w zabudowie szeregowej ;nowe;2010-04-07;11248/10;1019/10;2010-05-24;2010;4;2010-04-01;34;16,859989;51,154095
+4347;1199;;2010-05-24;Zabrodzka 1C;bud.handlowo-uslugowe;gabinet stomatologiczny;przebudowa;2010-05-12;15700/10;1020/10;2010-05-24;2010;5;2010-05-01;9;16,975607;51,0638249
+4348;1200;;2010-05-24;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;budynek jednorodzinny;nowe;2010-04-07;11251/10;1021/10;2010-05-24;2010;4;2010-04-01;34;16,859989;51,154095
+4349;1201;;2010-05-24;Modrzewiowa 8;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzin;nowe;2010-01-08;512/10;1022/10;2010-05-24;2010;1;2010-01-01;97;16,8620689;51,1576139
+4350;1202;;2010-05-24;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;dom jednorodzinny;nowe;2010-04-07;11252/10;1023/10;2010-05-24;2010;4;2010-04-01;34;16,859989;51,154095
+4351;1203;;2010-05-24;¯elazna 46;linie telekomunikacyjne ;przebudowa pomieszczenia gospodarczego ;nowe;2010-03-26;10246/10;1024/10;2010-05-24;2010;3;2010-03-01;42;17,0069607;51,0977927
+4352;1204;;2010-05-24;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;dom jednorodzinny;nowe;2010-04-07;11250/10;1025/10;2010-05-24;2010;4;2010-04-01;34;16,859989;51,154095
+4353;1205;;2010-05-25;Olszewskiego Karola 85;bud.o trzech i wiêcej mieszkaniach;budowy budynku mieszkalno-us³ugowego;nowe;2010-03-26;10261/10;paŸ-79;2010-05-25;2010;3;2010-03-01;43;17,1047873;51,1012843
+4354;1206;;2010-05-25;Boles³awa Chrobrego;bud.o trzech i wiêcej mieszkaniach;umarzam jako bezprzedmiotowe; ÿÿ;2010-03-26;10254/10;143/10;2010-05-25;2010;3;2010-03-01;43;17,0346759;51,1227944
+4355;1207;;2010-05-25;Skierniewicka 9;bud.handlowo-uslugowe;rozbudowa pawilonu handlowego;rozbudowa;2010-03-19;paŸ-10;1026/10;2010-05-25;2010;3;2010-03-01;48;17,0173841;51,0768817
+4356;1208;;2010-05-25;Siedlecka 19;bud.mieszkalne jednorodzinne;dom jednorodzinny;nowe;2010-03-25;paŸ-70;1027/10;2010-05-25;2010;3;2010-03-01;44;16,921221;51,166891
+4357;1209;;2010-05-25;Roosevelta Franklina 4;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-04-13;12004/10;1028/10;2010-05-25;2010;4;2010-04-01;31;17,0424946;51,1217785
+4358;1210;;2010-05-25;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;budynek jednorodzinny szereg;nowe;2010-04-07;11246/10;1029/10;2010-05-25;2010;4;2010-04-01;35;16,859989;51,154095
+4359;1211;;2010-05-25;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;dom jednorodzinny szereg;nowe;2010-04-07;11247/10;1030/10;2010-05-25;2010;4;2010-04-01;35;16,859989;51,154095
+4360;1212;;2010-05-25;Orzechowa 37;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu wewnêtrznej instalacji ;inst.wewnêtrzna;2010-04-19;12808/10;1031/10;2010-05-25;2010;4;2010-04-01;27;17,040233;51,0805719
+4361;1213;;2010-05-25;Lubi¹ska 1-3;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny w zabudowie szeregowej;nowe;2010-04-07;11254/10;1032/10;2010-05-25;2010;4;2010-04-01;35;16,859989;51,154095
+4362;1214;;2010-05-25;Estoñska;bud.handlowo-uslugowe;mini pawilonu handlowego;nowe;2010-04-27;13848/10;1033/10;2010-05-25;2010;4;2010-04-01;21;16,964157;51,1114903
+4363;1215;;2010-05-26;Grabiszyñska 251D;linie telekomunikacyjne ;przebudowa pom.po starej maszynowni ,montaz masztów ;nowe;2010-04-07;11384/10;1034/10;2010-05-26;2010;4;2010-04-01;36;16,984801;51,0968479
+4364;1216;;2010-05-26;Komuny Paryskiej 35 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkal.w budynku wielorodzinym;przebudowa;2010-03-29;10429/10;1035/10;2010-05-26;2010;3;2010-03-01;43;17,04562;51,1020343
+4365;1217;;2010-05-26;Boles³awa Krzywoustego 313/315;bud.o trzech i wiêcej mieszkaniach;odbudowa budynku mieszkalno-us³ugowego;przebudowa;2010-03-23;paŸ-60;1036/10;2010-05-26;2010;3;2010-03-01;47;17,113467;51,1464779
+4366;1218;;2010-05-26;Pszczelarska 3;ulice i drogi pozosta³e;parkingu terenowego z zagospodarowaniem terenu,odwodnieniem ;nowe;2010-04-30;14498/10;1037/10;2010-05-26;2010;4;2010-04-01;19;17,02413;51,057341
+4367;1219;;2010-05-26;Tunelowa;bud.mieszkalne jednorodzinne;budowa bud.mieszk.    jednorodzinego;nowe;2010-04-15;12397/10;1038/10;2010-05-26;2010;4;2010-04-01;30;17,0647184;51,0632866
+4368;1220;;2010-05-26;No¿ownicza 37;bud.handlowo-uslugowe;lokal gastronomiczny;przebudowa;2010-04-01;10840/10;1039/10;2010-05-26;2010;4;2010-04-01;40;17,036517;51,111801
+4369;1221;;2010-05-26;Kolbuszowska 18;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkal.w budynku mieszkal.wielorodzinnym;przebudowa;2010-04-08;11581/10;1040/10;2010-05-26;2010;4;2010-04-01;35;16,99782;51,092253
+4370;1222;;2010-05-26;Jaskó³cza;bud.mieszkalne jednorodzinne;4 domy szereg.;nowe;2010-04-02;11028/10;1041/10;2010-05-26;2010;4;2010-04-01;39;17,0867133;51,1355042
+4371;1223;;2010-05-26;Siedlecka 23;bud.mieszkalne jednorodzinne;dom mieszkalny jednorodzinny wolno stoj¹cy z wbudowanym ;nowe;2010-04-01;10872/10;1042/10;2010-05-26;2010;4;2010-04-01;40;16,9212594;51,167031
+4372;1224;;2010-05-26;Strachociñska;bud.mieszkalne jednorodzinne;budynek jednorodzinny;nowe;2010-05-11;15381/10;1043/10;2010-05-26;2010;5;2010-05-01;12;17,153509;51,103896
+4373;1225;;2010-05-26;Dêbickiego Zdzis³awa 7;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania w budynku wielorodz;przebudowa;2010-03-30;10467/10;1044/10;2010-05-26;2010;3;2010-03-01;42;17,0336244;51,1261541
+4374;1226;;2010-05-26;Jerzmanowska 107A;ulice i drogi pozosta³e;rozbudowa zjazdu z drogi publicznej;przebudowa;2010-04-30;14513/10;1045/10;2010-05-26;2010;4;2010-04-01;19;16,8689669;51,121359
+4375;1227;;2010-05-26;Siedlecka 21;bud.mieszkalne jednorodzinne;dom mieszkalny jednorodzinny wolno stoj¹cy z wbudowanym ;nowe;2010-03-25;paŸ-73;1046/10;2010-05-26;2010;3;2010-03-01;45;16,921404;51,166933
+4376;1228;;2010-05-26;Koreañska 17A;bud.o trzech i wiêcej mieszkaniach;wew.instalacja gazu;inst.wewnêtrzna;2010-04-29;14183/10;1047/10;2010-05-26;2010;4;2010-04-01;20;17,084863;51,0569459
+4377;1229;;2010-05-26;So³tysowicka 21;linie elektroener.i telekom.rozdzielcz.;linia kablowa do budynku biurowego;nowe;2010-04-27;13886/10;1048/10;2010-05-26;2010;4;2010-04-01;22;17,0709126;51,1416306
+4378;1230;;2010-05-26;Siedlecka 17;bud.mieszkalne jednorodzinne;dom jednorodzinny;nowe;2010-03-25;paŸ-71;1049/10;2010-05-26;2010;3;2010-03-01;45;16,921093;51,166849
+4379;1231;;2010-05-26;Wapienna 35;bud.handlowo-uslugowe;rozbudowa i przebudowa pawolonu handlowo-us³ugow.wraz z infarst;rozbudowa;2010-04-19;12614/10;1050/10;2010-05-26;2010;4;2010-04-01;28;17,0417134;51,0875534
+4380;1232;;2010-05-26;Powstañców Œl¹skich;ulice i drogi pozosta³e;przebudowa i budowa odcinków ulic;przebudowa;2010-04-02;11004/10;1051/10;2010-05-26;2010;4;2010-04-01;39;17,0159984;51,0893211
+4381;1233;;2010-05-26;Armii Krajowej Aleja 62;bud.biurowe;budowa budynku biurowo-us³ugowego;nowe;2010-04-14;12175/10;1052/10;2010-05-26;2010;4;2010-04-01;31;17,0619686;51,0842349
+4382;1234;;2010-05-26;Muchoborska;linie telekomunikacyjne ;budowa masztu antenowego z budynkiem tech.i drog¹ ;nowe;2010-05-13;15884/10;1053/10;2010-05-26;2010;5;2010-05-01;10;16,9707218;51,1111235
+4383;1235;;2010-05-26;Legnicka 38;;wolnostoj¹cego noœnika reklamowego;reklama;2010-03-19;paŸ-32;1054/10;2010-05-26;2010;3;2010-03-01;49;16,999535;51,1175699
+4384;1236;;2010-05-26;Modliñska 50;bud.mieszkalne jednorodzinne;rozbudowa i nadbudowa budynku mieszkal. jednorodzinnego;rozbudowa;2010-04-21;13101/10;1055/10;2010-05-26;2010;4;2010-04-01;26;16,999211;51,083337
+4385;1237;;2010-05-26;Tunelowa;bud.mieszkalne jednorodzinne; budynek mieszkal.               jednorodzinny wraz z wew.lini¹ zasilajac¹;nowe;2010-05-05;14815/10;1056/10;2010-05-26;2010;5;2010-05-01;16;17,0647184;51,0632866
+4386;1238;;2010-05-26;Paprotna 10;zbiorniki,silosy i bud.magazynowe;rozbudowa istniej bazy logistycznej;nowe;2010-03-24;paŸ-09;1057/10;2010-05-26;2010;3;2010-03-01;46;17,0258067;51,1541901
+4387;1239;;2010-05-26;Granatowa;bud.mieszkalne jednorodzinne;budowa budynku mieszkal.jednorodzin;nowe;2010-04-15;12396/10;1058/10;2010-05-26;2010;4;2010-04-01;30;16,8930209;51,1478249
+4388;1240;;2010-05-26;Wincentego Œw. 8;bud.o trzech i wiêcej mieszkaniach;monta¿ wew.instal.         gaz.w loka.mieszkal.;inst.wewnêtrzna;2010-05-07;15030/10;1059/10;2010-05-26;2010;5;2010-05-01;14;17,0329429;51,1228578
+4389;1241;;2010-05-26;Ciep³a 8;bud.o trzech i wiêcej mieszkaniach;monta¿ wew.instal.        gaz.w lokalu mieszkal.;inst.wewnêtrzna;2010-05-07;15032/10;1060/10;2010-05-26;2010;5;2010-05-01;14;17,0363009;51,0926207
+4390;1242;;2010-05-27;Kominiarska;bud.mieszkalne jednorodzinne;stwierdzam wygaœniêcie dec ;nowe;2010-03-12;paŸ-44;19-paŸ;2010-05-27;2010;3;2010-03-01;55;17,0067086;51,1728671
+4391;1243;;2010-05-27;Miêdzyleska 4;zbiorniki,silosy i bud.magazynowe;budowa budynku magazynowego z czeœcia socjal.;nowe;2010-03-19;paŸ-90;1061/10;2010-05-27;2010;3;2010-03-01;50;17,0698159;51,0789762
+4392;1244;;2010-05-27;£êczycka 10;bud.o trzech i wiêcej mieszkaniach;przebudowa czêœci stropu polegajaca na wykonaniu swietlika;przebudowa;2010-04-30;14414/10;1062/10;2010-05-27;2010;4;2010-04-01;20;17,012604;51,1194566
+4393;1245;;2010-05-27;Tarnogajska 35;bud.o trzech i wiêcej mieszkaniach;rozbudowa lokalu mieszkalnego;zmiana spos.u¿ytk.;2010-04-30;14494/10;1063/10;2010-05-27;2010;4;2010-04-01;20;17,0622979;51,079715
+4394;1246;;2010-05-27;Wo³owska 4-20;linie elektroener.i telekom.rozdzielcz.;linia kablowa i 2 stacje trafo;nowe;2010-04-02;10955/10;1064/10;2010-05-27;2010;4;2010-04-01;40;17,0261069;51,1466539
+4395;1247;;2010-05-27;Modliñska 48;bud.mieszkalne jednorodzinne;rozbudowa budynku mieszkalnego jednorodzinnego;rozbudowa;2010-04-30;14373/10;1065/10;2010-05-27;2010;4;2010-04-01;20;16,9992549;51,083265
+4396;1248;;2010-05-27;S³owackiego Juliusza Aleja;linie elektroener.i telekom.rozdzielcz.;budowa sieci telekom.;nowe;2010-04-29;14189/10;1066/10;2010-05-27;2010;4;2010-04-01;21;17,0440123;51,1087445
+4397;1249;;2010-05-27;Ba³kañska 10;ruroci¹gi wodoci¹g.sieci ;budowa sieci wodociagowej i kanalizacji sanitar.;nowe;2010-04-20;13088/10;1067/10;2010-05-27;2010;4;2010-04-01;28;17,0180289;51,1358733
+4398;1250;;2010-05-27;Daszyñskiego Ignacego 13;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego;przebudowa;2010-04-29;14204/10;1068/10;2010-05-27;2010;4;2010-04-01;21;17,0491251;51,1255443
+4399;1251;;2010-05-27;£¹kowa 13;bud.o trzech i wiêcej mieszkaniach;rozbudowa wewnêtrznej instalacji gazowej w lokalu mieszkalnym ;inst.wewnêtrzna;2010-04-13;12088/10;1069/10;2010-05-27;2010;4;2010-04-01;33;17,0276299;51,1036409
+4400;1252;;2010-05-28;Pomorska 44;bud.hoteli;hotel;nowe;2010-03-31;10658/10;paŸ-80;2010-05-28;2010;3;2010-03-01;43;17,030549;51,1213819
+4401;1253;;2010-05-28;Zatorska;bud.o trzech i wiêcej mieszkaniach;budowa budynków mieszkal.wielorodzin;nowe;2009-07-06;23562/09;1070/10;2010-05-28;2009;7;2009-07-01;235;17,1347609;51,160213
+4402;1254;;2010-05-28;Linkego Gotfryda 8;bud.mieszkalne jednorodzinne;budynek mieszkalny jednorodzinny;nowe;2010-04-22;13349/10;1071/10;2010-05-28;2010;4;2010-04-01;27;17,0385376;51,1078852
+4403;1255;;2010-05-28;Solny Plac 16;;monta¿ dwóch reklam na budynku;reklama;2010-05-06;14938/10;1072/10;2010-05-28;2010;5;2010-05-01;17;17,029478;51,1089069
+4404;1256;;2010-05-28;Piramowicza Grzegorza Ks. 5;bud.mieszkalne jednorodzinne;przebudowa budynku 2 rodzinnego;przebudowa;2010-04-14;12312/10;1073/10;2010-05-28;2010;4;2010-04-01;33;17,0971433;51,1037685
+4405;1257;;2010-05-28;Bo³tucia Miko³aja Gen. 4;bud.mieszkalne jednorodzinne;rozbudowa budynku jednorodzinnego;rozbudowa;2010-04-09;11703/10;1074/10;2010-05-28;2010;4;2010-04-01;36;17,0144122;51,0544932
+4406;1258;;2010-05-28;Boles³awa Krzywoustego;ruroci¹gi kanalizac.sieci ;przebudowa sieci kanalizacji sanitarnej;przebudowa;2010-03-30;10548/10;1075/10;2010-05-28;2010;3;2010-03-01;44;17,0924111;51,1417366
+4407;1259;;2010-05-28;Chiñska 1A;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkal.w bud.wielorodzinnym;przebudowa;2010-05-20;16773/10;1076/10;2010-05-28;2010;5;2010-05-01;7;17,082628;51,060364
+4408;1260;;2010-05-28;Rzeszowska 68A;bud.mieszkalne jednorodzinne;rozbudowa budynku mieszkalnego jednorodzinnego;rozbudowa;2010-04-27;13861/10;1077/10;2010-05-28;2010;4;2010-04-01;24;16,888496;51,1329409
+4409;1261;;2010-05-31;Monopolowa 2;bud.o trzech i wiêcej mieszkaniach;budynku mieszkalnego wielorodzinnego;nowe;2010-04-01;10912/10;paŸ-81;2010-05-31;2010;4;2010-04-01;43;17,1076091;51,1177378
+4410;1262;;2010-05-31;Tapicerska 86;bud.mieszkalne jednorodzinne;przebudowa budynku mieszkal.jednorodzin;przebudowa;2010-04-07;11317/10;1078/10;2010-05-31;2010;4;2010-04-01;39;16,990775;51,0838479
+4411;1263;;2010-05-31;Górnickiego £ukasza;bud.szkó³ i instytucji badawczych;budowa linii kablow.nn;przy³¹cze;2010-04-23;13576/10;1079/10;2010-05-31;2010;4;2010-04-01;27;17,0562149;51,118131
+4412;1264;;2010-05-31;Henrykowska 6;bud.o trzech i wiêcej mieszkaniach;monta¿ wew.instal.gaz.i centralnego ogrzewania dla lokalu mieszkal.;inst.wewnêtrzna;2010-04-15;12332/10;1080/10;2010-05-31;2010;4;2010-04-01;33;17,0498192;51,0884688
+4413;1265;;2010-05-31;W³adys³awa £okietka 8;bud.o trzech i wiêcej mieszkaniach;remont elewacji budynku mieszkal.;przebudowa;2010-05-10;15350/10;1081/10;2010-05-31;2010;5;2010-05-01;16;17,0349876;51,118328
+4414;1266;;2010-05-31;Grabiszyñska 240;bud.handlowo-uslugowe;przebudowa i remont istniej¹cej lokalu u¿ytkowego ;przebudowa;2010-05-10;15262/10;1082/10;2010-05-31;2010;5;2010-05-01;16;16,981562;51,0943849
+4415;1267;;2010-05-31;Ostrowskiego Aleksandra 34;;czterech wiat o konstrukcji stalowej;;2010-04-14;12169/10;1083/10;2010-05-31;2010;4;2010-04-01;34;16,9713177;51,0952355
+4416;1268;;2010-05-31;Drzewieckiego Stefana 36C;linie elektroener.i telekom.rozdzielcz.;linii kablowej nn;nowe;2010-04-26;13763/10;1084/10;2010-05-31;2010;4;2010-04-01;26;16,9686633;51,124556
+4417;1269;;2010-05-31;Hoene-Wroñskiego Józefa Marii;ulice i drogi pozosta³e;budowa parkingu terenowego wraz ze zjazdem;nowe;2010-05-06;14994/10;1085/10;2010-05-31;2010;5;2010-05-01;18;17,0562307;51,1081842
+4418;1270;;2010-05-31;Boles³awa Chrobrego 19;bud.o trzech i wiêcej mieszkaniach;remont elewacjii ocieplenie budynku mieszkalno-us³ugowego;remont;2010-05-17;16283/10;1086/10;2010-05-31;2010;5;2010-05-01;11;17,0350615;51,1222061
+4419;1271;;2010-05-31;Rejtana Tadeusza 6;bud.o trzech i wiêcej mieszkaniach;remont i przebudowa mieszkañ w budynku wielorodzinnym;przebudowa;2010-03-10;paŸ-89;1087/10;2010-05-31;2010;3;2010-03-01;59;17,0350277;51,1010078
+4420;1272;;2010-05-31;Sukiennice 10;bud.handlowo-uslugowe;przebudowa pomieszczen biurowych;przebudowa;2010-04-29;14365/10;1088/10;2010-05-31;2010;4;2010-04-01;23;17,03142;51,1099757
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;

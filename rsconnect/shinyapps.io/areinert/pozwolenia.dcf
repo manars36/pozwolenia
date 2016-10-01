@@ -1,0 +1,10 @@
+name: pozwolenia
+account: areinert
+server: shinyapps.io
+appId: 128591
+bundleId: 573734
+url: https://areinert.shinyapps.io/pozwolenia/
+when: 1475340680.32351
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: poz.csv|data/pozwolenia.xls|data/wspolrzedne - budynki mieszkalne cz1.csv|data/wspolrzedne - budynki mieszkalne cz2.csv|data/wspolrzednepozwolen na budowe cz.10.csv|data/wspolrzednepozwolen na budowe cz.11.csv|data/wspolrzednepozwolen na budowe cz.12.csv|data/wspolrzednepozwolen na budowe cz.13.csv|data/wspolrzednepozwolen na budowe cz.14.csv|data/wspolrzednepozwolen na budowe cz.15.csv|data/wspolrzednepozwolen na budowe cz.2.csv|data/wspolrzednepozwolen na budowe cz.3.csv|data/wspolrzednepozwolen na budowe cz.4.csv|data/wspolrzednepozwolen na budowe cz.5.csv|data/wspolrzednepozwolen na budowe cz.6.csv|data/wspolrzednepozwolen na budowe cz.7.csv|data/wspolrzednepozwolen na budowe cz.8.csv|data/wspolrzednepozwolen na budowe cz.9.csv

@@ -1,0 +1,601 @@
+;Numer.......................................wpisu;Imiê.i.nazwisko.lub.nazwa.inwestora;Data.wpisu;Adres;Rodzaj;opis;typ;Data.wniosku;Nr...............wniosku;Nr...............decyzji;Data.decyzji;Rok.wniosku;Miesi¹c.wniosku;data;Czas.rozpatrzenia;lon;lat
+20401;391;;;Sudecka  80 ;bud.o trzech i wiêcej mieszkaniach;umorzenie postêpowania;zmiana spos.u¿ytk.;2014-12-12;39985/14;791/15;2015-02-19;2014;12;2014-12-01;50;17,017269;51,0885429
+20402;392;;;Krakowska  98 ;bud.przemys³owe;umorzenie postêpowania;inst.wewnêtrzna;2014-12-22;41215/14;792/15;2015-02-19;2014;12;2014-12-01;44;17,0646001;51,0911347
+20403;393;;;Krakowska  28 ;bud.biurowe;przebudowa poddasza;przebudowa;2014-12-22;41038/14;793/15;2015-02-19;2014;12;2014-12-01;44;17,059026;51,0948149
+20404;394;;;Wagonowa  30 ;bud.przemys³owe;budowa instalacji zbiornikowej gazu;inst.wewnêtrzna;2014-12-22;41214/14;794/15;2015-02-19;2014;12;2014-12-01;44;16,988753;51,1123746
+20405;395;;;Olszewskiego Karola  32 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu w lokalu mieszkalnym;inst.wewnêtrzna;2014-12-19;40921/14;795/15;2015-02-19;2014;12;2014-12-01;45;17,0956299;51,103661
+20406;396;;;Smardzowska  ;ruroci¹gi kanalizac.sieci rozdzielczej;budowa sieci kanalizacji sanitarnej i kanalizacji deszczowej;nowe;2014-12-19;40942/14;797/15;2015-02-19;2014;12;2014-12-01;45;17,0414571;51,0558676
+20407;397;;;Graniczna  ;bud.handlowo-uslugowe;budowa marketu wraz z instalacjami wewnêtrznymi;nowe;2014-12-30;41702/14;800/15;2015-02-20;2014;12;2014-12-01;39;16,9142661;51,1086735
+20408;398;;;Grunwaldzki Plac  22 ;bud.biurowe;"przebudowa czêœci budynku centrum handlowego ""pasa¿ grunwaldzki""";przebudowa;2015-01-30;2870/15;802/15;2015-02-20;2015;1;2015-01-01;16;17,0590224;51,1126865
+20409;399;;;Wyszyñskiego Stefana Kardyna³a 120 ;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-01-08;265/15;811/15;2015-02-20;2015;1;2015-01-01;32;17,0538234;51,1250125
+20410;400;;;Wyœcigowa 56C ;bud.biurowe;budowa budynku biurowego;nowe;2015-01-12;526/15;816/15;2015-02-20;2015;1;2015-01-01;30;17,0072319;51,0648089
+20411;401;;;Œwieradowska  14 ;bud.o trzech i wiêcej mieszkaniach;monta¿ instalacji gazu na przeniesienie kurka g³ównego do szafki gazowej;inst.wewnêtrzna;2015-01-30;2765/15;820/15;2015-02-20;2015;1;2015-01-01;16;17,0364009;51,0774199
+20412;402;;;Kurkowa  43 ;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-01-28;2542/15;823/15;2015-02-20;2015;1;2015-01-01;18;17,0288224;51,120349
+20413;403;;;Rynek  24 ;bud.o trzech i wiêcej mieszkaniach;remont dachu kamienicy;remont;2015-01-23;2082/15;825/15;2015-02-20;2015;1;2015-01-01;21;17,0320892;51,1091468
+20414;404;;;Œwieradowska 14A ;bud.o trzech i wiêcej mieszkaniach;monta¿ instalacji gazu-przeniesienie kurka g³ównego do szafki gazowej na zewn¹trz budynku;inst.wewnêtrzna;2015-01-30;2766/15;826/15;2015-02-20;2015;1;2015-01-01;16;17,036435;51,0775389
+20415;405;;;Pereca Icchaka Lejba  58  ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku mieszkalnym;przebudowa;2015-02-09;3700/15;827/15;2015-02-20;2015;2;2015-02-01;10;17,0033071;51,0955509
+20416;406;;;Worcella Stanis³awa 6 ;bud.o trzech i wiêcej mieszkaniach;odmowa;remont;2014-12-29;41479/14;831/15;2015-02-23;2014;12;2014-12-01;41;17,0434414;51,104682
+20417;407;;;Mys³akowicka  22 ;bud.mieszkalne jednorodzinne;budowa przy³¹cza gazu;przy³¹cze;2014-12-18;40709/14;833/15;2015-02-23;2014;12;2014-12-01;48;16,9014058;51,146067
+20418;408;;;Brylantowa  ;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej;nowe;2014-12-19;40914/14;834/15;2015-02-23;2014;12;2014-12-01;47;17,0278694;51,0490594
+20419;409;;;Koœciuszki Tadeusza 188 ;bud.o trzech i wiêcej mieszkaniach;wykonanie wentylacji grawitacyjnej toalety;przebudowa;2015-01-14;900/15;835/15;2015-02-23;2015;1;2015-01-01;29;17,0549338;51,0977518
+20420;410;;;Jadwigi Œw.  12 ;bud.szkó³ i instytucji badawczych;przebudowa czêœci budynku uczelni techniczno-handlowej;przebudowa;2015-01-14;1015/15;836/15;2015-02-23;2015;1;2015-01-01;29;17,040137;51,1146453
+20421;411;;;Klasztorna  ;linie elektroener.i telekom.rozdzielcz.;umorzenie postêpowania;nowe;2015-01-23;2040/15;838/15;2015-02-23;2015;1;2015-01-01;22;17,0442231;51,0605968
+20422;412;;;Curie-Sk³odowskiej Marii  11 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego;przebudowa;2014-12-29;41501/14;839/15;2015-02-23;2014;12;2014-12-01;41;17,0575471;51,1118176
+20423;413;;;Grybowska  26 ;bud.mieszkalne jednorodzinne;monta¿ wewnêtrznej instalacji gazu w budynku;inst.wewnêtrzna;2015-01-09;393/15;840/15;2015-02-23;2015;1;2015-01-01;32;16,885192;51,137223
+20424;414;;;Komuny Paryskiej  47 ;bud.o trzech i wiêcej mieszkaniach;monta¿ kot³a gazowego i instalacji c.o.;inst.wewnêtrzna;2015-01-27;2295/15;842/15;2015-02-23;2015;1;2015-01-01;20;17,046942;51,101541
+20425;415;;;Boles³awa Krzywoustego  73 ;bud.o trzech i wiêcej mieszkaniach;odmowa;inst.wewnêtrzna;2014-12-31;41852/14;844/15;2015-02-23;2014;12;2014-12-01;39;17,07594;51,138025
+20426;416;;;Lipa Piotrowska;bud.o dwóch mieszkaniach;budowa 2  budynków jednorodzinnych;nowe;2014-12-31;41866/14;851/15;2015-02-24;2014;12;2014-12-01;40;16,9932025;51,1756961
+20427;417;;;Wyspiañskiego Stan.Wyb.  ;;zagospodarowanie terenu sportowo-rekreacyjnego wraz z boiskiem; ÿÿ;2015-01-13;716/15;852/15;2015-02-24;2015;1;2015-01-01;31;17,0385376;51,1078852
+20428;418;;;Kwiatkowskiego Eugeniusza  ;zbiorniki,silosy i bud.magazynowe;budowa budynku magazynowego;nowe;2014-12-08;39403/14;854/15;2015-02-24;2014;12;2014-12-01;57;16,9575652;51,0648122
+20429;419;;;Kwiatkowskiego Eugeniusza  ;zbiorniki,silosy i bud.magazynowe;budowa budynku magazynowego;nowe;2014-12-08;39402/14;855/15;2015-02-24;2014;12;2014-12-01;57;16,9575652;51,0648122
+20430;420;;;Grota-Roweckiego Stefana Gen.  39 ;bud.mieszkalne jednorodzinne;budowa budynku jednorodzinnego;nowe;2014-11-26;38090/14;856/15;2015-02-24;2014;11;2014-11-01;65;17,0317771;51,0661604
+20431;421;;;Strzegomska 246  ;ulice i drogi pozosta³e;parking z miejscami postojowymi dla samochodów osobowych;nowe;2015-01-26;2216/15;858/15;2015-02-24;2015;1;2015-01-01;22;16,9576329;51,110307
+20432;422;;;Szewska  63 ;bud.o trzech i wiêcej mieszkaniach;remont i przebudowa lokalu u¿ytkowego na parterze oraz pomieszczeñ w piwnicy wraz ze zmian¹ sposobu u¿ytkowania na lokal handlowy w budynku wielorodzinnym;przebudowa;2014-10-24;34608/14;860/15;2015-02-24;2014;10;2014-10-01;88;17,0347869;51,1110229
+20433;423;;;Szymanowskiego Karola  11 ;bud.zbiorowego zamieszkania;przebudowa istniej¹cej kot³owni olejowej na ko³towniê opalan¹ gazem ziemnym wraz z instalacjê gazow¹ od skrzynki g³ównej do kot³owni w budynku polic.izby dziecka;przebudowa;2014-12-23;41410/14;861/15;2015-02-24;2014;12;2014-12-01;46;17,0841203;51,1185226
+20434;424;;;Kaszubska 8 ;bud.o trzech i wiêcej mieszkaniach;budowa budynku mieszkalno-us³ugowego;nowe;2014-12-17;40503/14;862/15;2015-02-24;2014;12;2014-12-01;50;17,029152;51,120368
+20435;425;;;Partynicka 27-27A ;bud.o trzech i wiêcej mieszkaniach;budowa budynku mieszkalno-us³ugowego;nowe;2015-01-05;140/15;864/15;2015-02-24;2015;1;2015-01-01;37;16,9932139;51,063927
+20436;426;;;Lompy Józefa  10 ;bud.o trzech i wiêcej mieszkaniach;umorzenie;przebudowa;2014-04-07;10996/14;867/15;2015-02-24;2014;4;2014-04-01;232;17,0545594;51,1237985
+20437;427;;;Szybowcowa  66-74 ;bud.o trzech i wiêcej mieszkaniach;docieplenie i kolorystyka  budynków wielorodzinnych;remont;2015-02-18;5024/15;870/15;2015-02-24;2015;2;2015-02-01;5;16,9620681;51,1306432
+20438;428;;;Rzemieœlnicza  ;ruroci¹gi wodoci¹g.sieci rozdzielczej;budowa sieci wodoci¹gowej;nowe;2014-12-22;41202/14;873/15;2015-02-24;2014;12;2014-12-01;47;17,007757;51,1709639
+20439;429;;;S³owiañska  19 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-06;3552/15;874/15;2015-02-24;2015;2;2015-02-01;13;17,0413086;51,1235048
+20440;430;;;Swojczycka  21 ;linie telekomunikacyjne dalek.zasiêgu;umorzenie;nowe;2014-11-27;38277/14;876/15;2015-02-25;2014;11;2014-11-01;65;17,1142256;51,1148745
+20441;431;;;Ko³³¹taja Hugona  34-35 ;bud.o trzech i wiêcej mieszkaniach;odmowa;przebudowa;2015-01-09;442/15;881/15;2015-02-25;2015;1;2015-01-01;34;17,037514;51,1034591
+20442;432;;;PrzyjaŸni 105 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego nr 12 w budynku wielorodzinnym;przebudowa;2015-02-16;4718/15;887/15;2015-02-25;2015;2;2015-02-01;8;16,9959079;51,0670121
+20443;433;;;BliŸniacza  18 ;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowych nn dla zasilania budynku;nowe;2014-12-22;41183/14;888/15;2015-02-25;2014;12;2014-12-01;48;16,9575709;51,097501
+20444;434;;;Podwale  70 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i centralnego ogrzewania w lokalu mieszkalnym nr 16 w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-03;3174/15;889/15;2015-02-25;2015;2;2015-02-01;17;17,0410939;51,1034019
+20445;435;;;Wincentego Œw.  41 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i centralnego ogrzewania w lokalu mieszkalnym nr 3 w budynku wielorodzinnym;inst.wewnêtrzna;2015-01-28;2472/15;891/15;2015-02-25;2015;1;2015-01-01;21;17,0365882;51,1228484
+20446;436;;;Krucza  89 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym;inst.wewnêtrzna;2015-01-14;963/15;892/15;2015-02-25;2015;1;2015-01-01;31;16,9978589;51,094051
+20447;437;;;Katedralny Plac 1 ;bud.szkó³ i instytucji badawczych;przebudowa tarasu budynku papieskiego wydzia³u teologicznego z monta¿em samonoœnej platformy dla niepe³nosprawnych;urz¹dzenie;2015-01-30;2811/15;893/15;2015-02-25;2015;1;2015-01-01;19;17,0456909;51,1136739
+20448;438;;;Wojanowska  ;ulice i drogi pozosta³e;budowa drogi na stab³owicach;nowe;2015-01-15;1158/15;895/15;2015-02-25;2015;1;2015-01-01;30;16,9037846;51,1529538
+20449;439;;;Potebni Andrzeja  27 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym;inst.wewnêtrzna;2015-01-19;1465/15;896/15;2015-02-25;2015;1;2015-01-01;28;17,1014922;51,1076441
+20450;440;;;Orkana W³adys³awa  36 ;bud.mieszkalne jednorodzinne;budowa budynku jednorodzinnego oraz rozbiórka istniej¹cego;nowe;2014-12-17;40635/14;897/15;2015-02-25;2014;12;2014-12-01;51;17,0555237;51,1340211
+20451;441;;;Januszowicka  32-34 ;bud.szkó³ i instytucji badawczych;remont elewacji budynku przedszkolnego;remont;2015-01-13;757/15;898/15;2015-02-25;2015;1;2015-01-01;32;17,0120389;51,0804149
+20452;442;;;Muchoborska 6 ;;przebudowa elewacji budynku biurowego;noœnik reklamowy;2015-01-30;2827/15;899/15;2015-02-25;2015;1;2015-01-01;19;16,97099;51,11087
+20453;443;;;Kosmonautów  ;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej œn  przy ul.Kosmonautów;nowe;2014-12-08;39386/14;900/15;2015-02-25;2014;12;2014-12-01;58;16,9077656;51,1416723
+20454;444;;;P³u¿na  ;ruroci¹gi wodoci¹g.sieci rozdzielczej;budowa sieci wodoci¹gowej;nowe;2014-12-29;41513/14;901/15;2015-02-25;2014;12;2014-12-01;43;16,87157;51,1219037
+20455;445;;;Skarbowców  34 ;ulice i drogi pozosta³e;budowa zjazdu indywidualnego z ulicy;nowe;2015-01-14;990/15;902/15;2015-02-25;2015;1;2015-01-01;31;16,9969052;51,0764769
+20456;446;;;Skarbowców  32 ;ulice i drogi pozosta³e;budowa zjazdu z ulicy na dzia³kê;nowe;2015-01-14;991/15;903/15;2015-02-25;2015;1;2015-01-01;31;16,9969565;51,0765481
+20457;447;;;Ruska 46A ;bud.handlowo-uslugowe;remont wraz z przebudow¹ czêœci budynku us³ugowego;remont;2014-12-09;39668/14;904/15;2015-02-25;2014;12;2014-12-01;57;17,024469;51,1103699
+20458;448;;;Opolska  21 ;bud.o trzech i wiêcej mieszkaniach;umorzenie;nowe;2014-08-05;25189/14;906/15;2015-02-25;2014;8;2014-08-01;147;17,080271;51,079633
+20459;449;;;Wiêckowskiego Stanis³awa  23 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu;inst.wewnêtrzna;2015-01-20;1566/15;908/15;2015-02-25;2015;1;2015-01-01;27;17,0524944;51,0981532
+20460;450;;;Szczêœliwa 8 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego;inst.wewnêtrzna;2014-12-18;40794/14;910/15;2015-02-25;2014;12;2014-12-01;50;17,008591;51,0988629
+20461;451;;;Marszowicka  38 ;bud.niemieszkalne pozosta³e;przebudowa budynku gospodarczego;nowe;2014-05-08;14668/14;911/15;2015-02-25;2014;5;2014-05-01;210;16,8820039;51,1650319
+20462;452;;;¯yczliwa  ;ruroci¹gi wodoci¹g.sieci rozdzielczej;rozbudowa sieci wodoci¹gowej i kanalizacji sanitarnej;rozbudowa;2015-01-09;485/15;915/15;2015-02-25;2015;1;2015-01-01;34;16,9887424;51,0670001
+20463;453;;;Lipa Piotrowska;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego;nowe;2014-12-31;41867/14;918/15;2015-02-26;2014;12;2014-12-01;42;16,9932025;51,1756961
+20464;454;;;Pabianicka 2 ;ulice i drogi pozosta³e;budowa wjazdu na teren ¿³obka;nowe;2015-01-19;1446/15;920/15;2015-02-26;2015;1;2015-01-01;29;17,027406;51,093323
+20465;455;;;Domañskiego Boles³awa Ks.  ;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego w zabudowie szeregowej;nowe;2014-12-31;41830/14;922/15;2015-02-26;2014;12;2014-12-01;42;16,8659663;51,1219165
+20466;456;;;Œwidnicka 5 ;bud.o trzech i wiêcej mieszkaniach;umorzenie;przebudowa;2015-02-04;3332/15;923/15;2015-02-26;2015;2;2015-02-01;17;17,0323749;51,1085099
+20467;457;;;Dawida Jana W³adys³awa 9-11 ;bud.szkó³ i instytucji badawczych;wymiana stolarki okiennej;remont;2015-01-05;145/15;924/15;2015-02-26;2015;1;2015-01-01;39;17,0393317;51,0941055
+20468;458;;;Zaporoska  24-26 ;bud.o trzech i wiêcej mieszkaniach;przebudowa strefy wejœciowej do budynku;przebudowa;2014-11-24;37807/14;928/15;2015-02-26;2014;11;2014-11-01;69;17,015397;51,0980769
+20469;459;;;Ko³³¹taja Hugona  32 ;bud.o trzech i wiêcej mieszkaniach;umorzenie;inst.wewnêtrzna;2014-12-16;40342/14;929/15;2015-02-26;2014;12;2014-12-01;53;17,0373473;51,1030215
+20470;460;;;Skarbowców 23A ;bud.biurowe;budowa budynków biurowych a i b;nowe;2014-12-02;38901/14;932/15;2015-02-26;2014;12;2014-12-01;63;16,9959127;51,0777024
+20471;461;;;Skwierzyñska  22-24 ;bud.o trzech i wiêcej mieszkaniach;przebudowa strefy wejœciowej budynku mieszkalnego wielorodzinnego;przebudowa;2014-11-24;37808/14;933/15;2015-02-26;2014;11;2014-11-01;69;17,0158749;51,0986339
+20472;462;;;Grunwaldzki Plac3 ;bud.kultu religijnego i czynnoœci religijnych;remont dachów zabytkowego koœcio³a;remont;2015-02-03;3097/15;935/15;2015-02-26;2015;2;2015-02-01;18;17,0623873;51,1119986
+20473;463;;;Przybyszewskiego Stanis³awa  63 ;bud.szkó³ i instytucji badawczych;przebudowa wewnêtrznej instalacji gazowej;inst.wewnêtrzna;2015-01-22;1912/15;936/15;2015-02-26;2015;1;2015-01-01;26;17,0625048;51,138813
+20474;464;;;Na Grobli  14/16 ;bud.biurowe;remont i przebudowa elewacji budynku administracyjno-socjalnego;przebudowa;2014-12-30;41613/14;937/15;2015-02-26;2014;12;2014-12-01;43;17,0582259;51,1044812
+20475;465;;;Popowicka 134 ;bud.handlowo-uslugowe;przebudowa i remont pawilonu handlowego;przebudowa;2015-02-23;5410/15;938/15;2015-02-26;2015;2;2015-02-01;4;16,989787;51,128031
+20476;466;;;Œlê¿na 130 ;bud.handlowo-uslugowe;przebudowanie lokalu u¿ytkowego, u¿ytecznoœci publicznej handlowo-us³ugowego;przebudowa;2015-01-28;2556/15;941/15;2015-02-27;2015;1;2015-01-01;23;17,0235253;51,0809844
+20477;467;;;Worcella Stanis³awa  18 ;bud.o trzech i wiêcej mieszkaniach;wykonanie wewnêtrznej instalacji gazowej.;inst.wewnêtrzna;2015-02-19;5145/15;942/15;2015-02-27;2015;2;2015-02-01;7;17,0449876;51,1041726
+20478;468;;;JeŸdziecka 4A ;bud.handlowo-uslugowe;;nowe;2014-12-22;41179/14;943/15;2015-02-27;2014;12;2014-12-01;50;16,9940948;51,0627791
+20479;469;;;Pogodna  33 ;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego;nowe;2014-12-19;41023/14;946/15;2015-02-27;2014;12;2014-12-01;51;16,9972184;51,073717
+20480;470;;;Bzowa  40  ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego;przebudowa;2015-02-25;5784/15;947/15;2015-02-27;2015;2;2015-02-01;3;16,993243;51,095627
+20481;471;;;£ubinowa  12 ;bud.handlowo-uslugowe;przebudowa ze zmian¹ u¿ytkownia lokalu;przebudowa;2015-01-23;1977/15;949/15;2015-02-27;2015;1;2015-01-01;26;17,0171693;51,0614109
+20482;472;;;Widawska  34 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i centralnego ogrzewania;inst.wewnêtrzna;2015-01-15;1138/15;951/15;2015-02-27;2015;1;2015-01-01;32;17,115707;51,172889
+20483;473;;;Piastowska 29A ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego;przebudowa;2015-02-18;5000/15;952/15;2015-02-27;2015;2;2015-02-01;8;17,061431;51,114739
+20484;474;;;Trzebnicka  14 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym;przebudowa;2015-01-16;1246/15;953/15;2015-02-27;2015;1;2015-01-01;31;17,0359921;51,1218332
+20485;475;;;P³u¿na  ;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego;nowe;2015-01-19;1485/15;955/15;2015-02-27;2015;1;2015-01-01;30;16,87157;51,1219037
+20486;476;;;£ukowska  25 ;bud.mieszkalne jednorodzinne;budowa domu mieszkalnego jednorodzinnego;nowe;2014-12-31;41818/14;957/15;2015-02-27;2014;12;2014-12-01;43;16,922109;51,165723
+20487;477;;;Bora-Komorowskiego T. Gen  6B ;ruroci¹gi kanalizac.sieci rozdzielczej;umorzenie;przebudowa;2015-01-14;921/15;958/15;2015-02-27;2015;1;2015-01-01;33;17,1193473;51,1569159
+20488;478;;;Wincentego Œw.  15 ;bud.o trzech i wiêcej mieszkaniach;remont elewacji frontowej w czêœci parteru;remont;2015-02-04;3393/15;959/15;2015-02-27;2015;2;2015-02-01;18;17,0330541;51,1223509
+20489;479;;;¯erniki;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego;nowe;2014-12-31;41767/14;960/15;2015-02-27;2014;12;2014-12-01;43;16,9257567;51,1240826
+20490;480;;;¯ernicka 189 ;bud.mieszkalne jednorodzinne;umorzenie;przebudowa;2015-02-06;3661/15;963/15;2015-02-27;2015;2;2015-02-01;16;16,9289977;51,1227001
+20491;481;;;Cementowa  14-18 ;bud.handlowo-uslugowe;budowa hali us³ugowej stolarni z zapleczem;nowe;2014-12-31;41855/14;965/15;2015-03-02;2014;12;2014-12-01;44;17,11752;51,112764
+20492;482;;;Kie³czowska  66 ;bud.handlowo-uslugowe;budowa samoobs³ugowej myjni samochodowej 4rostanowiskowej z konterem technicznym oraz urz¹dzeniami infrastruktury techniczej;nowe;2014-12-31;41857/14;966/15;2015-03-02;2014;12;2014-12-01;44;17,1342429;51,147051
+20493;483;;;Œwidnicka 5 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku wielorodzinnym;przebudowa;2015-02-04;3333/15;967/15;2015-03-02;2015;2;2015-02-01;19;17,0323749;51,1085099
+20494;484;;;Górnickiego £ukasza  10 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-18;4938/15;972/15;2015-03-02;2015;2;2015-02-01;9;17,0549952;51,1159495
+20495;485;;;Mickiewicza Adama  ;budowle sportowe i rekreacyjne pozosta³e;"remont mostka ""taiko bashi "" w ogrodzie japoñskim";remont;2015-02-24;5694/15;973/15;2015-03-02;2015;2;2015-02-01;5;17,0877962;51,1128605
+20496;486;;;Lubuska 115 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu i c.o. w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-12;4371/15;974/15;2015-03-02;2015;2;2015-02-01;13;17,009147;51,101088
+20497;487;;;£ukasiñskiego Waleriana 3 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-02;3041/15;975/15;2015-03-02;2015;2;2015-02-01;21;17,0497561;51,1016186
+20498;488;;;Joannitów  14 ;bud.biurowe;remont dachu budynku s¹du okrêgowego-8 wydzia³y ubezpieczeñ spo³ecznych;remont;2015-02-09;3753/15;976/15;2015-03-02;2015;2;2015-02-01;16;17,036654;51,094581
+20499;489;;;Trawowa  26;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu i instalacji centralnego ogrzewania w lokalu nr 5;inst.wewnêtrzna;2015-02-03;3101/15;978/15;2015-03-03;2015;2;2015-02-01;21;16,9485637;51,0996725
+20500;490;;;Komuny Paryskiej  61 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym nr 12;inst.wewnêtrzna;2015-02-02;2932/15;979/15;2015-03-03;2015;2;2015-02-01;22;17,04836;51,1008099
+20501;491;;;Brzeska  25;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i centralnego ogrzewania dla lokalu nr 5;inst.wewnêtrzna;2015-01-15;1210/15;981/15;2015-03-03;2015;1;2015-01-01;34;17,0532217;51,0962906
+20502;492;;;Marszowicka  ;bud.o trzech i wiêcej mieszkaniach;budowa zespo³u willi miejskich/13 budynków/;nowe;2015-01-16;1311/15;982/15;2015-03-03;2015;1;2015-01-01;33;16,8765318;51,1581928
+20503;493;;;Zwyciêska  10 ;bud.o trzech i wiêcej mieszkaniach;odmowa;rozbudowa;2014-12-01;38729/14;983/15;2015-03-03;2014;12;2014-12-01;67;17,008581;51,0585386
+20504;494;;;Rynek 8 ;bud.o trzech i wiêcej mieszkaniach;odmowa;przebudowa;2015-01-21;1763/15;987/15;2015-03-03;2015;1;2015-01-01;30;17,0302905;51,1102774
+20505;495;;;Rynek  15 ;bud.o trzech i wiêcej mieszkaniach;remont dachu budynku mieszkalno-us³ugowego;remont;2015-01-20;1628/15;988/15;2015-03-03;2015;1;2015-01-01;31;17,0307863;51,1094219
+20506;496;;;Wyœcigowa 56B ;zbiorniki,silosy i bud.magazynowe;budowa nowych elementów zagospodarowania  terenu w s¹siedztwie istn. hali magazynowej na potrzeby serwerowni;;2015-02-18;5006/15;989/15;2015-03-03;2015;2;2015-02-01;10;17,007841;51,065143
+20507;497;;;Trzebnicka  68 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego nr 2;przebudowa;2015-01-02;27/15;990/15;2015-03-03;2015;1;2015-01-01;43;17,0363767;51,1285915
+20508;498;;;Strzegomska 2-4 ;bud.biurowe;przebudowa pomieszczeñ V i VI czêœci piêtra budynku biurowo-us³ugowego silver forum;przebudowa;2015-02-13;4464/15;991/15;2015-03-03;2015;2;2015-02-01;13;17,0047198;51,1121227
+20509;499;;;Witelona Erazma Cio³ka  ;linie elektroener.i telekom.rozdzielcz.;budowa sieci kablowej nn, sieci oœwietlenia ulicznego oraz rozbiórkê linni napowietrznej nn;nowe;2015-01-22;1898/15;993/15;2015-03-03;2015;1;2015-01-01;29;17,0385376;51,1078852
+20510;500;;;Brylantowa  ;bud.mieszkalne jednorodzinne;budowa budynku jednorodzinnego;nowe;2015-01-26;2182/15;994/15;2015-03-03;2015;1;2015-01-01;27;17,0278694;51,0490594
+20511;501;;;Lotnicza  ;bud.o trzech i wiêcej mieszkaniach;budowa budynku mieszkalnego wielorodzinnego z gara¿em wbudowanym;nowe;2014-12-30;41719/14;995/15;2015-03-04;2014;12;2014-12-01;47;16,9577492;51,1327713
+20512;502;;;Stanis³awskiego Jana  36;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-17;4898/15;996/15;2015-03-04;2015;2;2015-02-01;12;17,1064034;51,0983036
+20513;503;;;Jednoœci Narodowej  88;bud.o trzech i wiêcej mieszkaniach;przebudowa czêœci parteru elewacji wielorodzinnego budynku mieszkalno-uslugowego;przebudowa;2014-12-22;41176/14;997/15;2015-03-04;2014;12;2014-12-01;53;17,040489;51,12085
+20514;504;;;Kminkowa  ;linie elektroener.i telekom.rozdzielcz.;budowa kontenerowej stacji transformatorowej,sieci kablowych œr i n/n napiêcia dla zasilania budynków;nowe;2015-01-26;2239/15;998/15;2015-03-04;2015;1;2015-01-01;28;17,0009094;51,1783728
+20515;505;;;Kwidzyñska8 ;zbiorniki,silosy i bud.magazynowe;przebudowa hali magazynowej 7.03-wykonanie œciany oddzielenia  przeciwpo¿arowego;przebudowa;2015-01-29;2636/15;1000/15;2015-03-04;2015;1;2015-01-01;25;17,0940181;51,1308267
+20516;506;;;Tomaszowska  21 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu dla lokalu mieszkalnego;inst.wewnêtrzna;2015-01-20;1660/15;1001/15;2015-03-04;2015;1;2015-01-01;32;17,038579;51,088867
+20517;507;;;Szkocka  46-52 ;bud.o trzech i wiêcej mieszkaniach;przebudowa klatek schodowych z dostowaniem do aktualnych przepisów przeciwpo¿arowych w budynku wielorodzinnym;przebudowa;2015-01-30;2697/15;1003/15;2015-03-04;2015;1;2015-01-01;24;16,9600851;51,1081899
+20518;508;;;W³odkowica Paw³a  33;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym nr 8;inst.wewnêtrzna;2015-02-19;5075/15;1004/15;2015-03-04;2015;2;2015-02-01;10;17,0233389;51,1103267
+20519;509;;;Stobrawska  2A ;bud.kultu religijnego i czynnoœci religijnych;przebudowa czêœci mieszkalnej koœcio³a chrzeœcijan baptystów;przebudowa;2015-01-26;2126/15;1005/15;2015-03-04;2015;1;2015-01-01;28;16,9841372;51,1222536
+20520;510;;;Wiêckowskiego Stanis³awa  19 ;bud.o trzech i wiêcej mieszkaniach;umorzenie;inst.wewnêtrzna;2015-01-08;293/15;1006/15;2015-03-04;2015;1;2015-01-01;40;17,0526409;51,0982785
+20521;511;;;Ojca Beyzyma  31 ;bud.gara¿y;budowa budynku gara¿u z pomieszczeniem gospodarczy w miejscu dawnego budynku gospodarczego;nowe;2014-12-22;41094/14;1008/15;2015-03-04;2014;12;2014-12-01;53;16,9913076;51,0871238
+20522;512;;;Grudzi¹dzka 106 ;bud.o trzech i wiêcej mieszkaniach;budowa wewnêtrznej instalacji gazowej i centralnego ogrzewania wraz z monta¿em dwufunkcyjnego kot³a gazowego w lokalu mieszkalnym nr 1;inst.wewnêtrzna;2015-01-27;2363/15;1009/15;2015-03-04;2015;1;2015-01-01;27;17,075888;51,137425
+20523;513;;;Ksiêgarska  ;bud.mieszkalne jednorodzinne;umorzenie;nowe;2015-02-26;6096/15;1010/15;2015-03-04;2015;2;2015-02-01;5;17,0191165;51,1763382
+20524;514;;;Srocza  ;ulice i drogi pozosta³e;budowa oœwietlenia drogowego przy ul. Sroczej;nowe;2015-01-16;1231/15;1013/15;2015-03-04;2015;1;2015-01-01;34;17,0286034;51,1208718
+20525;515;;;Jareckiego Henryka  ;ruroci¹gi wodoci¹g.sieci rozdzielczej;odmowa;rozbudowa;2014-12-31;41850/14;1015/15;2015-03-04;2014;12;2014-12-01;46;17,0498077;51,0491355
+20526;516;;;Pracy Aleja 27A;bud.o trzech i wiêcej mieszkaniach;przebudowa klatek schodowych w budynku mieszkalnym wielorodzinnym;przebudowa;2015-01-30;2698/15;1017/15;2015-03-04;2015;1;2015-01-01;24;16,9855309;51,093305
+20527;517;;;Szkocka  75-99 ;bud.o trzech i wiêcej mieszkaniach;przebudowa klatek schodowych w budynku mieszkalnym wielorodzinnym;przebudowa;2015-01-30;2696/15;1018/15;2015-03-04;2015;1;2015-01-01;24;16,960459;51,110535
+20528;518;;;Rynek  14 ;bud.o trzech i wiêcej mieszkaniach;remont dachu budynku mieszkalno-us³ugowego;remont;2015-01-20;1627/15;1020/15;2015-03-04;2015;1;2015-01-01;32;17,0306678;51,109441
+20529;519;;;Wys³oucha Seweryna  32 ;bud.gara¿y;odmowa;rozbudowa;2015-01-09;448/15;1021/15;2015-03-04;2015;1;2015-01-01;39;16,976168;51,0755072
+20530;520;;;£ukasiñskiego Waleriana 3 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-03;3081/15;1022/15;2015-03-04;2015;2;2015-02-01;22;17,0497561;51,1016186
+20531;521;;;Rydygiera Ludwika 11 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym w budynku mieszkalnym wielorodzinnym;inst.wewnêtrzna;2015-01-16;1294/15;1023/15;2015-03-04;2015;1;2015-01-01;34;17,0340112;51,1183602
+20532;522;;;Prusa Boles³awa  63;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2014-12-30;41701/14;1024/15;2015-03-04;2014;12;2014-12-01;47;17,0577072;51,1197983
+20533;523;;;Mosiê¿na  12 ;bud.o trzech i wiêcej mieszkaniach;monta¿ instalacji gazu w lokalu mieszkalnym;inst.wewnêtrzna;2015-01-30;2769/15;1026/15;2015-03-04;2015;1;2015-01-01;24;16,9995279;51,100116
+20534;524;;;Conrada-Korzeniowskiego Józefa Wyb. 7;bud.o trzech i wiêcej mieszkaniach;przebudowa fragmentu mieszkania wraz z monta¿em schodow na poddasze w budynku mieszkalnym wielorodzinnym;przebudowa;2015-01-23;2015/15;1027/15;2015-03-04;2015;1;2015-01-01;29;17,0349577;51,1301895
+20535;525;;;Szczêœliwa 14A;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-06;3554/15;1028/15;2015-03-04;2015;2;2015-02-01;19;17,009445;51,098997
+20536;526;;;Podwale 7 ;bud.handlowo-uslugowe;umorzenie;rozbudowa;2015-02-16;4719/15;1029/15;2015-03-05;2015;2;2015-02-01;14;17,022558;51,1126129
+20537;527;;;Gaj;ruroci¹gi wodoci¹g.sieci rozdzielczej;budowa sieci kanalizacji sanitarnej,sieci wodoci¹gowej,oraz przy³¹czy;nowe;2015-02-03;3224/15;1030/15;2015-03-05;2015;2;2015-02-01;23;17,0411497;51,0756442
+20538;528;;;Koœciuszki Tadeusza  ;ruroci¹gi wodoci¹g.sieci rozdzielczej;przebudowa odcinków dwóch przy³aczy ciep³owniczych;przebudowa;2015-01-22;1892/15;1031/15;2015-03-05;2015;1;2015-01-01;31;17,0407043;51,1010649
+20539;529;;;Nowowiejska 103 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i wod-kan w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2014-12-19;40972/14;1034/15;2015-03-05;2014;12;2014-12-01;55;17,0623149;51,1164409
+20540;530;;;Australijska  40 ;bud.mieszkalne jednorodzinne;rozbudowa,przebudowa i nadbudowa budynku mieszkalnego jednorodzinnego;rozbudowa;2015-01-29;2626/15;1035/15;2015-03-05;2015;1;2015-01-01;26;16,9639;51,1077919
+20541;531;;;Wieruszowska  ;ulice i drogi pozosta³e;przebudowa ulicy wraz z oswietleniem ulicznym oraz kana³em technologicznym;przebudowa;2014-12-11;39849/14;1040/15;2015-03-05;2014;12;2014-12-01;61;16,9925324;51,1398294
+20542;532;;;¯eñców 1 ;bud.mieszkalne jednorodzinne;monta¿ wewnetrznej instalacji gazowej w budynku;inst.wewnêtrzna;2015-02-17;4827/15;1041/15;2015-03-05;2015;2;2015-02-01;13;17,0369469;51,067343
+20543;533;;;Ostrowska  50 ;bud.mieszkalne jednorodzinne;budowa budynku jednorodzinnego;nowe;2014-12-03;38989/14;1042/15;2015-03-05;2014;12;2014-12-01;67;16,9934909;51,1434311
+20544;534;;;Rêdziñska 59A ;bud.o dwóch mieszkaniach;budowa budynku mieszkalnego jednorodzinnego wolno stoj¹cego;nowe;2014-12-30;41680/14;1043/15;2015-03-05;2014;12;2014-12-01;48;16,948829;51,154523
+20545;535;;;Koœciuszki Tad.Gen.Plac  19 ;bud.hoteli;odmowa;reklama;2015-01-16;1265/15;1044/15;2015-03-06;2015;1;2015-01-01;36;17,0385376;51,1078852
+20546;536;;;Rajska  21 ;bud.mieszkalne jednorodzinne;umorzenie;rozbudowa;2015-02-02;3019/15;1045/15;2015-03-06;2015;2;2015-02-01;25;16,8881722;51,1416756
+20547;537;;;Jutrzenki 71B ;bud.mieszkalne jednorodzinne;budowa domu mieszkalnego jednorodzinnego wolno stoj¹cego;nowe;2015-01-05;64/15;1049/15;2015-03-06;2015;1;2015-01-01;45;16,9793058;51,0733712
+20548;538;;;Marszowicka  61 ;bud.mieszkalne jednorodzinne;umorzenie;rozbudowa;2014-12-23;41333/14;1050/15;2015-03-06;2014;12;2014-12-01;54;16,880091;51,1651655
+20549;539;;;Piastowska 25A ;bud.o trzech i wiêcej mieszkaniach;remont i przebudowa lokalu mieszkalnego;remont;2015-01-12;518/15;1052/15;2015-03-06;2015;1;2015-01-01;40;17,0613609;51,114438
+20550;540;;;Che³moñskiego Józefa  12 ;bud.kultury fizycznej;budowa budynku hali sportowo-widowiskowej;nowe;2015-01-07;229/15;1053/15;2015-03-06;2015;1;2015-01-01;43;17,0902542;51,1019189
+20551;541;;;Prusa Boles³awa  22 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-12;4227/15;1054/15;2015-03-06;2015;2;2015-02-01;17;17,0433997;51,1194397
+20552;542;;;Piechoty 2 ;bud.mieszkalne jednorodzinne;monta¿ wewnêtrznej instalacji gazu dla lokalu;inst.wewnêtrzna;2015-02-02;2925/15;1055/15;2015-03-06;2015;2;2015-02-01;25;17,019631;51,053216
+20553;543;;;Odrzañska  13 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku wielorodzinnym;przebudowa;2014-12-30;41591/14;1056/15;2015-03-06;2014;12;2014-12-01;49;17,031579;51,1124839
+20554;544;;;In¿ynierska  56-60 ;bud.o trzech i wiêcej mieszkaniach;przebudowa klatek schodowych w budynku mieszkalnym;przebudowa;2015-01-30;2695/15;1057/15;2015-03-06;2015;1;2015-01-01;26;16,984825;51,093829
+20555;545;;;Bia³odrzewna  ;ruroci¹gi kanalizac.sieci rozdzielczej;budowa sieci kanalizacji sanitarnej w ulicy;nowe;2015-01-30;2886/15;1058/15;2015-03-06;2015;1;2015-01-01;26;16,9233029;51,1373012
+20556;546;;;Pu³tuska  20 ;bud.o trzech i wiêcej mieszkaniach;montaz wewnêtrznej instalacji gazu w lokalu mieszkalnym;inst.wewnêtrzna;2015-01-13;758/15;1059/15;2015-03-06;2015;1;2015-01-01;39;17,0164404;51,0740986
+20557;547;;;Osiniecka  ;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego w zabudowie wolno stoj¹cej;nowe;2015-01-28;2550/15;1060/15;2015-03-06;2015;1;2015-01-01;28;16,8973346;51,1212832
+20558;548;;;W³odkowica Paw³a 4 ;linie elektroener.i telekom.rozdzielcz.;budowa i przebudowa odcinka sieci elektroenergetycznej niskiego napiêcia;nowe;2015-01-27;2348/15;1061/15;2015-03-06;2015;1;2015-01-01;29;17,0250374;51,1078518
+20559;549;;;Grota-Roweckiego Stefana Gen.  ;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej nn dla zasilania budynku;nowe;2015-01-30;2801/15;1062/15;2015-03-06;2015;1;2015-01-01;26;17,0325316;51,056754
+20560;550;;;In¿ynierska  14 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym;przebudowa;2014-12-30;41623/14;1063/15;2015-03-06;2014;12;2014-12-01;49;16,9931069;51,0942099
+20561;551;;;Janiszewskiego Zygmunta 7,8,11 ;linie elektroener.i telekom.rozdzielcz.;budowa przy³¹cza elektroenergetycznego;nowe;2015-02-03;3176/15;1068/15;2015-03-09;2015;2;2015-02-01;25;17,058171;51,109454
+20562;552;;;Abramowskiego Edwarda 2;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-09;3748/15;1071/15;2015-03-09;2015;2;2015-02-01;21;17,1055815;51,1020487
+20563;553;;;Walecznych  13;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o.w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-17;4744/15;1075/15;2015-03-09;2015;2;2015-02-01;15;17,059587;51,119341
+20564;554;;;Piastowska  45 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-19;5164/15;1077/15;2015-03-09;2015;2;2015-02-01;13;17,0616099;51,1165839
+20565;555;;;Barwinkowa  13 ;bud.mieszkalne jednorodzinne;monta¿ wewnêtrznej instalacji gazu od szafki gazowej w linii ogrodzenia;inst.wewnêtrzna;2015-02-06;3615/15;1078/15;2015-03-09;2015;2;2015-02-01;22;17,1034296;51,1685178
+20566;556;;;Szczeciñska 17E ;zbiorniki,silosy i bud.magazynowe;przebudowa hali magazynowej z czêœci¹ biurowo-socjaln¹;przebudowa;2015-02-13;4486/15;1079/15;2015-03-09;2015;2;2015-02-01;17;16,9386734;51,1365033
+20567;557;;;Warciañska  35 ;bud.mieszkalne jednorodzinne;budowa przy³¹cza gazu niskiego ciœnienia;przy³¹cze;2015-01-09;403/15;1081/15;2015-03-09;2015;1;2015-01-01;42;16,9369279;51,141901
+20568;558;;;Grunwaldzka  15;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-09;3781/15;1083/15;2015-03-09;2015;2;2015-02-01;21;17,056741;51,1144399
+20569;559;;;Grota-Roweckiego Stefana Gen.  ;linie elektroener.i telekom.rozdzielcz.;budowa linii nn dla zasilania budynku mieszkalnego;nowe;2015-01-30;2802/15;1084/15;2015-03-09;2015;1;2015-01-01;27;17,0325316;51,056754
+20570;560;;;Laotañska  ;ruroci¹gi wodoci¹g.sieci rozdzielczej;budowa odcinka sieci wodoci¹gowej;nowe;2015-02-03;3177/15;1085/15;2015-03-09;2015;2;2015-02-01;25;17,0770945;51,0634827
+20571;561;;;Grota-Roweckiego Stefana Gen.  ;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej nn dla zasilania budynku;nowe;2015-01-30;2804/15;1087/15;2015-03-09;2015;1;2015-01-01;27;17,0325316;51,056754
+20572;562;;;Stra¿acka 8 ;ruroci¹gi wodoci¹g.sieci rozdzielczej;budowa sieci kanalizacji sanitarnej;nowe;2015-02-06;3671/15;1088/15;2015-03-09;2015;2;2015-02-01;22;17,0195259;51,1747366
+20573;563;;;Walecznych 3;bud.o trzech i wiêcej mieszkaniach;;inst.wewnêtrzna;2015-02-12;4407/15;1089/15;2015-03-09;2015;2;2015-02-01;18;17,0585099;51,119962
+20574;564;;;Grota-Roweckiego Stefana Gen.  ;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej;nowe;2015-01-30;2805/15;1090/15;2015-03-09;2015;1;2015-01-01;27;17,0325316;51,056754
+20575;565;;;Œlê¿na  90 ;linie telekomunikacyjne dalek.zasiêgu;odmowa;urz¹dzenie;2015-01-15;1041/15;1094/15;2015-03-10;2015;1;2015-01-01;39;17,0248021;51,0835072
+20576;566;;;¯eromskiego Stefana  41 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu i instalacji c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-24;5585/15;1095/15;2015-03-10;2015;2;2015-02-01;11;17,0487132;51,1230327
+20577;567;;;Orawska  ;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego wolno stoj¹cego;nowe;2014-12-23;41361/14;1096/15;2015-03-10;2014;12;2014-12-01;56;17,0228816;51,065739
+20578;568;;;Jarno³towska  ;bud.zakwater.turystycz.;budowa piêciu budynków turystycznych wraz z infrastruktur¹ techniczn¹;nowe;2015-01-08;309/15;1097/15;2015-03-10;2015;1;2015-01-01;44;16,852181;51,1201705
+20579;569;;;Pr¹dzyñskiego Ignacego Gen. 37 ;bud.o trzech i wiêcej mieszkaniach;odmowa;przebudowa;2015-01-29;2676/15;1103/15;2015-03-10;2015;1;2015-01-01;29;17,0490526;51,0987259
+20580;570;;;Przesmyckiego Zenona Miriama  31-33 ;ruroci¹gi gazu sieci rozdzielczej;umorzenie;nowe;2015-02-27;6204/15;1105/15;2015-03-10;2015;2;2015-02-01;8;17,0666168;51,137679
+20581;571;;;Fabryczna 20A ;zbiorniki,silosy i bud.magazynowe;przebudowa i rozbudowa dwóch hal magazynowych;rozbudowa;2015-02-12;4397/15;1106/15;2015-03-10;2015;2;2015-02-01;19;16,9807112;51,1112215
+20582;572;;;Bezpieczna  ;linie elektroener.i telekom.rozdzielcz.;budowa linii kablowej;nowe;2015-01-29;2575/15;1110/15;2015-03-10;2015;1;2015-01-01;29;17,022854;51,1401837
+20583;573;;;Przylaszczkowa  70 ;bud.mieszkalne jednorodzinne;odmowa;rozbudowa;2015-01-12;633/15;1112/15;2015-03-10;2015;1;2015-01-01;42;17,1028099;51,1690169
+20584;574;;;Kwidzyñska 8 ;bud.biurowe;przebudowa budynku biurowo-warsztatowego 7.01-7.06-wykonanie œciany oddzielenia przeciwpo¿arowego na terenie zak³adu;przebudowa;2015-02-26;6066/15;1113/15;2015-03-10;2015;2;2015-02-01;9;17,1015832;51,1278469
+20585;575;;;Traugutta Romualda Gen. 137;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego wraz z wykonaniem wewnêtrznej instalacji gazowej w budynku wielorodzinnym;inst.wewnêtrzna;2015-03-03;6499/15;1116/15;2015-03-10;2015;3;2015-03-01;6;17,0555306;51,0982702
+20586;576;;;Kwidzyñska 8 ;bud.przemys³owe;przebudowa hali; ÿÿ;2015-01-30;2739/15;1119/15;2015-03-10;2015;1;2015-01-01;28;17,1015832;51,1278469
+20587;577;;;¯eromskiego Stefana  22;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu c.o.i wodno-kanalizacyjnej;inst.wewnêtrzna;2015-01-08;294/15;1122/15;2015-03-10;2015;1;2015-01-01;44;17,0463169;51,1214405
+20588;578;;;Zagony  ;ulice i drogi pozosta³e;budowa odcinka drogi oraz chodnika;nowe;2015-03-05;7002/15;1130/15;2015-03-11;2015;3;2015-03-01;5;16,9437974;51,0996688
+20589;579;;;Trzebnicka  21 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-18;4915/15;1131/15;2015-03-11;2015;2;2015-02-01;16;17,03632;51,122454
+20590;580;;;Hallera Józefa Gen. Aleja 103 ;bud.o trzech i wiêcej mieszkaniach;monta¿ instalacji centralnego ogrzewania i wewnêtrznej instalacji gazu;inst.wewnêtrzna;2015-02-11;4068/15;1132/15;2015-03-11;2015;2;2015-02-01;21;16,9940211;51,0905305
+20591;581;;;Ostrowskiego Aleksandra  34 ;bud.biurowe;przebudowa pomieszczenia gospodarczego z pomieszczenia serwerowni;przebudowa;2015-02-11;4138/15;1135/15;2015-03-11;2015;2;2015-02-01;21;16,9713177;51,0952355
+20592;582;;;Legnicka 128;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu  mieszkalnego;przebudowa;2015-02-13;4519/15;1138/15;2015-03-11;2015;2;2015-02-01;19;16,980241;51,1246246
+20593;583;;;Prusa Boles³awa  42 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-19;5140/15;1139/15;2015-03-11;2015;2;2015-02-01;15;17,0455014;51,1198045
+20594;584;;;Jemio³owa  19;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-02-03;3095/15;1140/15;2015-03-11;2015;2;2015-02-01;27;17,010255;51,098647
+20595;585;;;Blacharska  12 ;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-02-19;5118/15;1141/15;2015-03-11;2015;2;2015-02-01;15;16,9896189;51,081702
+20596;586;;;Worcella Stanis³awa  5A;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego wraz z monta¿em wewnêtrznej instalacji gazowej w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-11;4224/15;1142/15;2015-03-11;2015;2;2015-02-01;21;17,0437088;51,1043058
+20597;587;;;Wiêzienna  19 ;bud.o trzech i wiêcej mieszkaniach;remont elewacji budynku wielorodzinnego;remont;2015-01-22;1934/15;1143/15;2015-03-11;2015;1;2015-01-01;35;17,0325199;51,113008
+20598;588;;;Legnicka  32;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania;przebudowa;2015-01-14;996/15;1150/15;2015-03-11;2015;1;2015-01-01;41;17,0129899;51,112119
+20599;589;;;Partyzantów  80 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-03-05;6990/15;1152/15;2015-03-11;2015;3;2015-03-01;5;17,105892;51,1095319
+20600;590;;;Graniczna  ;ulice i drogi pozosta³e;budowa drogi dojazdowej i chodnika wraz z infrastruktur¹ techniczn¹;nowe;2015-02-03;3192/15;1153/15;2015-03-12;2015;2;2015-02-01;28;16,9142661;51,1086735
+20601;591;;;Reja Miko³aja  16;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej w lokalu mieszkalnym w.budynku wielorodzinnym;inst.wewnêtrzna;2015-02-24;5734/15;1155/15;2015-03-12;2015;2;2015-02-01;13;17,0575338;51,1150284
+20602;592;;;Koœciuszki Tadeusza  51 ;bud.o trzech i wiêcej mieszkaniach;remont wielorodzinnego budynku mieszkalnego;remont;2014-12-29;41483/14;1156/15;2015-03-12;2014;12;2014-12-01;54;17,0352378;51,102066
+20603;593;;;Jemio³owa  19 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-03;3094/15;1157/15;2015-03-12;2015;2;2015-02-01;28;17,010255;51,098647
+20604;594;;;Marszowicka  95 ;bud.mieszkalne jednorodzinne;budowa jednorodzinnego budynku mieszkalnego;nowe;2015-02-03;3127/15;1162/15;2015-03-12;2015;2;2015-02-01;28;16,8772436;51,1599892
+20605;595;;;Br¹zowa 5 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazowej i c.o. w lokalu mieszkalnym w budynku wielorodzinnym;inst.wewnêtrzna;2015-02-24;5615/15;1165/15;2015-03-12;2015;2;2015-02-01;13;17,000512;51,1016289
+20606;596;;;Do¿ynkowa  ;ulice i drogi pozosta³e;budowa drogi zjazdowej;nowe;2015-01-28;2526/15;1166/15;2015-03-12;2015;1;2015-01-01;32;16,9833334;51,0700216
+20607;597;;;Zieliñskiego Tadeusza  47 ;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-01-27;2280/15;1167/15;2015-03-12;2015;1;2015-01-01;33;17,0216344;51,0996042
+20608;598;;;£ukowa  33 ;bud.mieszkalne jednorodzinne;przebudowa elewacji budynku jednorodzinnego;przebudowa;2015-03-03;6564/15;1169/15;2015-03-12;2015;3;2015-03-01;8;16,8950809;51,140735
+20609;599;;;Liskego Ksawerego 3 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku wielorodzinnym;przebudowa;2014-12-23;41348/14;1172/15;2015-03-12;2014;12;2014-12-01;58;17,0697842;51,1154947
+20610;600;;;Rychtalska  16 ;bud.handlowo-uslugowe;budowa myjni  samochodowej;nowe;2015-03-02;6353/15;1175/15;2015-03-12;2015;3;2015-03-01;9;17,0464547;51,1298203
+20611;601;;;Buforowa 117 ;bud.mieszkalne jednorodzinne;rozbudowa,nadbudowa i przebudowa budynku mieszkalnego jednorodzinnego na budynek us³ugowo-mieszkalny;rozbudowa;2015-02-20;5311/15;1179/15;2015-03-12;2015;2;2015-02-01;15;17,0591119;51,048464
+20612;602;;;Pi³sudskiego Józ. Mar.Pl. 5;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu handlowego wraz ze zmian¹ sposobu u¿ytkowania na lokal gastronomiczny w budynku mieszkalnym wielorodzinnym;przebudowa;2015-01-16;1237/15;1180/15;2015-03-12;2015;1;2015-01-01;40;17,0385376;51,1078852
+20613;603;;;Trójk¹tna 4 ;bud.przemys³owe;umorzenie;rozbudowa;2014-12-31;41860/14;1183/15;2015-03-13;2014;12;2014-12-01;53;16,9248001;51,1398019
+20614;604;;;Szczêœliwa  17 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu i c.o.w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-23;5398/15;1185/15;2015-03-13;2015;2;2015-02-01;15;17,00998;51,098095
+20615;605;;;Dworska 8 ;bud.szkó³ i instytucji badawczych;remont elewacji dwóch internatów   oraz przebudowa portierni wraz z budow¹ zewn.instalacji kanalizacji deszczowej oraz skablowaniem napowietrznej linii teletech;remont;2015-01-14;927/15;1186/15;2015-03-13;2015;1;2015-01-01;43;16,95437;51,1453129
+20616;606;;;Stab³owicka 119D ;bud.mieszkalne jednorodzinne;monta¿ wewnêtrznej instalacji gazu i monta¿ wewnêtrznej instalacji c.o.w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-18;4966/15;1199/15;2015-03-16;2015;2;2015-02-01;19;16,900406;51,166483
+20617;607;;;Bia³oskórnicza 6 ;bud.zakwater.turystycz.;przebudowa pomieszczeñ parteru w budynku hostelu;przebudowa;2015-02-11;4184/15;1201/15;2015-03-16;2015;2;2015-02-01;24;17,0274275;51,1111303
+20618;608;;;Mokronoska 2 ;bud.biurowe;monta¿ wewn.instalacji gazu dla kot³owni gazowej wraz z monta¿em wewn. inst. c.o. dla budynku biurowego;inst.wewnêtrzna;2015-01-09;481/15;1202/15;2015-03-16;2015;1;2015-01-01;47;16,9559646;51,0782185
+20619;609;;;Smardzowska  ;bud.o trzech i wiêcej mieszkaniach;budowa budynku mieszkalnego wielorodzinnego;nowe;2015-01-30;2824/15;1203/15;2015-03-16;2015;1;2015-01-01;32;17,0414571;51,0558676
+20620;610;;;Daliowa 4 ;bud.mieszkalne jednorodzinne;budowa budynku jednorodzinnego wraz z zagospodarowaniem trenu z wy³¹czenmiem przy³aczy;nowe;2014-12-23;41420/14;1204/15;2015-03-16;2014;12;2014-12-01;60;17,114634;51,1691264
+20621;611;;;Gorlicka  21;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania;przebudowa;2015-01-28;2454/15;1206/15;2015-03-16;2015;1;2015-01-01;34;17,1158355;51,1451867
+20622;612;;;D³ugosza Jana  48 ;bud.biurowe;budowa budynku biurowo-us³ugowego i budynku technicznego;nowe;2014-12-17;40490/14;1208/15;2015-03-16;2014;12;2014-12-01;64;17,0643798;51,1346552
+20623;613;;;Lompy Józefa  10 ;bud.o trzech i wiêcej mieszkaniach;przebudowa czêœci poddasza na lokal mieszkalny w budynku wielorodzinnyn;przebudowa;2014-12-29;41506/14;1211/15;2015-03-16;2014;12;2014-12-01;56;17,0545594;51,1237985
+20624;614;;;S³owicza  17;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej intsalacji gazu i c.o.w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-20;5290/15;1214/15;2015-03-17;2015;2;2015-02-01;18;17,008184;51,0881319
+20625;615;;;Lompy Józefa 9;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu i c.o.w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-23;5509/15;1215/15;2015-03-17;2015;2;2015-02-01;17;17,0548965;51,1235908
+20626;616;;;Buska 4 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego w budynku wielorodzinnym;przebudowa;2015-03-11;7648/15;1216/15;2015-03-17;2015;3;2015-03-01;5;17,0039139;51,090792
+20627;617;;;Œniadeckich Jana i Jêdrzeja  18 ;ulice i drogi pozosta³e;budowa nowego zjazdu z drogi publicznej;nowe;2015-01-29;2623/15;1217/15;2015-03-17;2015;1;2015-01-01;34;17,0737819;51,1221514
+20628;618;;;Walecznych  13;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-02-26;5906/15;1220/15;2015-03-17;2015;2;2015-02-01;14;17,059587;51,119341
+20629;619;;;Trzebnicka  14 ;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-02-03;3087/15;1221/15;2015-03-17;2015;2;2015-02-01;31;17,0359921;51,1218332
+20630;620;;;Piêkna  58 ;bud.o trzech i wiêcej mieszkaniach;odmowa;nowe;2014-12-19;41027/14;1222/15;2015-03-17;2014;12;2014-12-01;63;17,0594715;51,0847319
+20631;621;;;Wilanowska 25B ;bud.handlowo-uslugowe;umorzenie;nowe;2015-01-13;884/15;1223/15;2015-03-17;2015;1;2015-01-01;46;17,132307;51,1556353
+20632;622;;;Hubska  84-86 ;bud.handlowo-uslugowe;przebudowa budynku handlowego;rozbudowa;2015-02-25;5893/15;1227/15;2015-03-17;2015;2;2015-02-01;15;17,0467446;51,0883281
+20633;623;;;Zwyciêska8 ;bud.handlowo-uslugowe;"przebudowa i remont budynku ""b-4"" o funkcji hatelowo-szkoleniowej wraz z przebudow¹ sieci sanitarnych i elektrycznych";przebudowa;2015-01-27;2393/15;1228/15;2015-03-17;2015;1;2015-01-01;36;17,0056571;51,0596505
+20634;624;;;Zieliñskiego Tadeusza  58-72 ;bud.o trzech i wiêcej mieszkaniach;przebudowa zagospodarownaia terenu przy budynku wielorodzinnym; ÿÿ;2015-03-10;7360/15;1229/15;2015-03-17;2015;3;2015-03-01;6;17,0201488;51,0977526
+20635;625;;;Konwaliowa  12 ;bud.mieszkalne jednorodzinne;budowa budynku mieszkalnego jednorodzinnego wolno stoj¹cego;nowe;2014-11-28;38437/14;1231/15;2015-03-17;2014;11;2014-11-01;78;17,1125201;51,1735399
+20636;626;;;Reja Miko³aja  16 ;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-02-25;5891/15;1232/15;2015-03-17;2015;2;2015-02-01;15;17,0575338;51,1150284
+20637;627;;;Ratajów 32A ;bud.mieszkalne jednorodzinne;przebudowa fragmentu przyziemia w budynku jednorodzinnym;przebudowa;2015-02-19;5195/15;1233/15;2015-03-17;2015;2;2015-02-01;19;17,036343;51,0654091
+20638;628;;;Koœciuszki Tadeusza  92-98 ;bud.o trzech i wiêcej mieszkaniach;remont balkonów w budynku mieszkalnym;remont;2015-03-13;8102/15;1238/15;2015-03-18;2015;3;2015-03-01;4;17,0429814;51,1006889
+20639;629;;;Przeskok 4 ;bud.o trzech i wiêcej mieszkaniach;remont elewacji budynku mieszkalnego wielorodzinnego;remont;2015-02-12;4368/15;1239/15;2015-03-18;2015;2;2015-02-01;25;17,046661;51,119409
+20640;630;;;Grota-Roweckiego Stefana Gen.  ;linie elektroener.i telekom.rozdzielcz.;"budowa linii kablowej niskiego napiêcia dla zasilania budynku mieszkalnego wielorodzinnego ""a""";nowe;2015-01-30;2803/15;1240/15;2015-03-18;2015;1;2015-01-01;34;17,0325316;51,056754
+20641;631;;;Orzeszkowej Elizy  29 ;bud.o trzech i wiêcej mieszkaniach;przebudowa balkonów w elewacji frontowej wielorodzinnego budynku mieszkalnego;przebudowa;2015-01-21;1794/15;1241/15;2015-03-18;2015;1;2015-01-01;41;17,0501366;51,1243888
+20642;632;;;O³taszyñska 92G ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu us³ugowego na potrzeby lokalu gastronomicznego;przebudowa;2015-02-24;5730/15;1242/15;2015-03-18;2015;2;2015-02-01;17;17,007996;51,0586078
+20643;633;;;Zaporoska  30 ;bud.o trzech i wiêcej mieszkaniach;przebudowa lokalu mieszkalnego i czeœci korytarza klatki schodowej;przebudowa;2015-02-04;3245/15;1243/15;2015-03-18;2015;2;2015-02-01;31;17,0153596;51,0965864
+20644;634;;;Grunwaldzka  10 ;bud.o trzech i wiêcej mieszkaniach;remont mieszkania;przebudowa;2014-12-11;39875/14;1244/15;2015-03-18;2014;12;2014-12-01;70;17,0560839;51,114973
+20645;635;;;Têczowa  14 ;bud.o trzech i wiêcej mieszkaniach;remont elewacji z ociepleniem budynku mieszkalnego;remont;2015-01-22;1939/15;1245/15;2015-03-18;2015;1;2015-01-01;40;17,0197283;51,1065369
+20646;636;;;Arbuzowa  ;ruroci¹gi gazu sieci rozdzielczej;budowa gazoci¹gu;nowe;2015-01-22;1874/15;1246/15;2015-03-18;2015;1;2015-01-01;40;16,9000518;51,1553662
+20647;637;;;Walecznych  14 ;bud.o trzech i wiêcej mieszkaniach;wewnêtrzna instalacja gazu;inst.wewnêtrzna;2015-01-29;2579/15;1248/15;2015-03-18;2015;1;2015-01-01;35;17,059577;51,119727
+20648;638;;;Zieliñskiego Tadeusza  22-36 ;bud.o trzech i wiêcej mieszkaniach;przebudowa zagospodarowania terenu przy budynku wielorodzinnym; ÿÿ;2015-03-10;7358/15;1249/15;2015-03-18;2015;3;2015-03-01;7;17,0229521;51,09984
+20649;639;;;S³owackiego Juliusza Wybrze¿e 5;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania;przebudowa;2015-02-03;3233/15;1250/15;2015-03-18;2015;2;2015-02-01;32;17,0519806;51,1082807
+20650;640;;;Krakowska  27 ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu dla lokalu mieszkalnego;inst.wewnêtrzna;2015-01-21;1694/15;1251/15;2015-03-18;2015;1;2015-01-01;41;17,059997;51,0931049
+20651;641;;;PrzyjaŸni  ;linie elektroener.i telekom.rozdzielcz.;budowa sieci kablowej nn wraz ze z³¹czami;nowe;2015-01-27;2311/15;1252/15;2015-03-18;2015;1;2015-01-01;37;16,9964144;51,0670921
+20652;642;;;Koœciuszki Tadeusza 186  ;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu w lokalu mieszkalnym;inst.wewnêtrzna;2015-03-05;7014/15;1256/15;2015-03-18;2015;3;2015-03-01;10;17,0547564;51,0978386
+20653;643;;;Zieliñskiego Tadeusza  40-54 ;bud.o trzech i wiêcej mieszkaniach;przebudowa zagospodarowania terenu; ÿÿ;2015-03-10;7359/15;1257/15;2015-03-18;2015;3;2015-03-01;7;17,0215906;51,0987773
+20654;644;;;Babimojska 9 ;zbiorniki,silosy i bud.magazynowe;rozbudowa budynku us³ugowego o czêœæ socjalno-biurow¹;rozbudowa;2015-02-19;5181/15;1258/15;2015-03-18;2015;2;2015-02-01;20;16,9786919;51,1133869
+20655;645;;;Szewska  24-26 ;bud.o trzech i wiêcej mieszkaniach;odmowa;remont;2015-02-05;3482/15;1262/15;2015-03-18;2015;2;2015-02-01;30;17,0352019;51,111007
+20656;646;;;W³odkowica Paw³a  31 ;bud.o trzech i wiêcej mieszkaniach;przebudowa mieszkania;przebudowa;2015-01-30;2740/15;1265/15;2015-03-18;2015;1;2015-01-01;34;17,0233053;51,1101785
+20657;647;;;Klecina;bud.o trzech i wiêcej mieszkaniach;budowa budynków mireszkalnych wielorodzinnych;nowe;2012-02-13;11-gru;1268/15;2015-03-18;2012;2;2012-02-01;808;16,978337;51,06354
+20658;648;;;Hallera Józefa Gen. Aleja 111;bud.o trzech i wiêcej mieszkaniach;monta¿ wewnêtrznej instalacji gazu i monta¿ c.o. w lokalu mieszkalnym;inst.wewnêtrzna;2015-02-09;3779/15;1271/15;2015-03-18;2015;2;2015-02-01;28;16,9926822;51,0907437
+20659;649;;;Uniwersytecka  11-12 ;bud.o trzech i wiêcej mieszkaniach;umorzenie;przebudowa;2015-01-07;221/15;1278/15;2015-03-19;2015;1;2015-01-01;52;17,033794;51,113319
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
